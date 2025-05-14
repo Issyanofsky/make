@@ -41,3 +41,5 @@ In larger companies, the very common applications can be substituted by Enterpri
 
 The variety of different opportunities is immense. However, there are certain common patterns and characteristics that will help you to understand the business model and type of sales motion Make is trying to achieve with the Enterprise plan.
 
+
+![Typical Enterprise Sales Opportunity](/pic/typical_enterprise_sales_opportunity.gif)
