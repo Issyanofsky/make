@@ -39,6 +39,8 @@ providing training services. teach make to others.
 after having some expiriance. you can provide consulting service (AI, chatbox..etc).
 
 
+# Revenue share opportunity
+
 
 
   
