@@ -22,7 +22,9 @@ Evry single business, regurdless of size, industry, length of existence, busines
      
 ## What are the key value propositions of Make for Enterprise clients (why the Enterprise customers buy Make)
 
+
 ![Key Values of Make](pic/key_value_propositions_for_enterprise_customers.gif)
+
 
   1. The simplicity of visual low-code interface (superior UX/UI experience)
   2. Affodability and scalability of business-critical processes with growing automation needs.
