@@ -126,7 +126,7 @@ Transfering ownership:
 
 # Community
 
-    https://community.make.com/latest
+https://community.make.com/latest
 
 - Learn from others - see solutions and consult other members of the community.
 - Build your authrity - showcase your knowlage and become community expert.
