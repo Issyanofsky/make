@@ -5,6 +5,6 @@
 
 # Legend:
 
-   * [Make offering](make_offering.md)
+   * [Intoduction to Make and the market](make_offering.md)
    * [Make Offering](product_offering.md)
 
