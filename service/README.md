@@ -123,4 +123,14 @@ Transfering ownership:
 17. (Write a __case study__)
 
 18. Time to optimize __another process?__
-19. 
+
+# Community
+
+    https://community.make.com/latest
+
+- Learn from others - see solutions and consult other members of the community.
+- Build your authrity - showcase your knowlage and become community expert.
+- Promote your services - __Solution Exchange__ - promote services, solutions, and courses in a dedicate category.
+
+  
+
