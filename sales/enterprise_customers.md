@@ -10,7 +10,7 @@ __Chapter milestones:__
 
 There are two main types of Enterprise customers:
   1. The first type is a mid-size to large Enterprise that is looking to automate a specific line of their business like marketing or HR processes.
-  2. The second type is fast-frowing mid0size to medium-large companies that are looking for an automation tool that will allow them to scale and grow their business efficiently.
+  2. The second type is fast-frowing mid-size to medium-large companies that are looking for an automation tool that will allow them to scale and grow their business efficiently.
 
 here are some example of these two types of Enterprise customers:
 
