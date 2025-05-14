@@ -2,7 +2,7 @@
 
 # **Make**
 
-![DevOps](terragrunt/pic/devops1.gif)
+![DevOps](pic/make_logo.gif)
 </div>
 
 # Legend:
