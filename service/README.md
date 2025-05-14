@@ -30,5 +30,15 @@ providing training services. teach make to others.
 
 ## Consulting/development services beyond Make automations
 
-building interfaces on top of the make automation (like login screen, integrate with an app).
+### building interfaces on top of the make automation (like login screen, integrate with an app).
 
+  https://www.make.com/en/integrations/category/no-low-code?community=1&verified=1
+
+### consulting
+
+after having some expiriance. you can provide consulting service (AI, chatbox..etc).
+
+
+
+
+  
