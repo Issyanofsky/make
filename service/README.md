@@ -92,3 +92,12 @@ Transfering ownership:
     enter to the organization you want to transfare.
 
     on the top under "Organization settings" - choose "Transfer ownership"
+
+## The process (after getting the work).
+
+5. Set up connections together with the customer
+   a. Consider having the customer setting up a new automation@... account for every servixe.
+
+6. Start building.
+
+7. Show the outcomes to the costuner on a screen share.
