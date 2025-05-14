@@ -8,13 +8,13 @@
 
 ## Develop senarios
 
-- Pricing per hour - best for started becaouse you dont know to avaluate the time needed for a project.
+- __Pricing per hour__ - best for started becaouse you dont know to avaluate the time needed for a project.
 
-- Pricing per project - charging by a total cost. the customer knows the price. but it involved to know how long (aproxcematly) the project must take ( advice to take a spare time include).
+- __Pricing per project__ - charging by a total cost. the customer knows the price. but it involved to know how long (aproxcematly) the project must take ( advice to take a spare time include).
 
-- Pricing per manday - a nix between hourly and project.
+- __Pricing per manday__ - a nix between hourly and project.
 
-- Minimum price/retainer - good for beginers. because we need to learn the customer system (how does he works). its good to learn. after you can switch to other plan.
+- __Minimum price/retainer__ - good for beginers. because we need to learn the customer system (how does he works). its good to learn. after you can switch to other plan.
 
 ## Monthly maintenance with SLA
 
@@ -64,7 +64,7 @@ If your customer is interested in our Enterprise plan, ensure to register the le
    d. create a written document of planned automations/solutions and get it approved by the customer?
 
 4. Decide on ownership of Make organization
-   a. RECOMENDED: Customer is the owner
+   a. __RECOMENDED__: Customer is the owner
      - Create new Make organization for the customer and make the customer owner - you can create the organization for the customer and transfer ownership later.
      - Or the customer can create the org on his own via your affiliate and then invite you as admin.
    b. Partner is the owner
@@ -95,9 +95,32 @@ Transfering ownership:
 
 ## The process (after getting the work).
 
-5. Set up connections together with the customer
+5. Set up __connections__ together with the customer
    a. Consider having the customer setting up a new automation@... account for every servixe.
 
-6. Start building.
+6. Start __building__.
 
-7. Show the outcomes to the costuner on a screen share.
+7. Show the __outcomes__ to the costuner on a screen share.
+
+8. (Fix __errors__ + do the __extras__)
+
+9. Show the __outcomes__ to the customer on a screen share.
+
+10. Have the customer test the process __with you__.
+
+11. Have the customer test the process __without you__.
+
+12. (Fix __errors__)
+
+13. __Release__
+
+14. Closely __monitor__ for a few days (weeks).
+
+15. Creating __documentation__ - explaining how all the soloution works. what are the inputs, outpust, what are the problematic part of the solution. 
+
+16. (__Maintain__)
+
+17. (Write a __case study__)
+
+18. Time to optimize __another process?__
+19. 
