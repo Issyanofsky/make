@@ -22,7 +22,6 @@ Evry single business, regurdless of size, industry, length of existence, busines
      
 ## What are the key value propositions of Make for Enterprise clients (why the Enterprise customers buy Make)
 
-
 ![Key Values of Make](pic/key_value_propositions_for_enterprise_customers.gif)
 
 
