@@ -1,7 +1,5 @@
 <div align="center">
 
-# **Make**
-
 ![DevOps](pic/make_logo.gif)
 </div>
 
