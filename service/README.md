@@ -3,4 +3,4 @@
 
 # Services
 </div>
-![DevOps](./pic/what_can_you_charge_for.gif)
+![DevOps](../pic/what_can_you_charge_for.gif)
