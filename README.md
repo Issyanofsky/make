@@ -5,6 +5,6 @@
 
 # Legend:
 
-   * [Dev-Ops](devops/README.md)
-   * [Bash](bash/README.md)
-   * [Networking](networking/README.md)
+   * [Service](service/README.md)
+   * [Sales](sales/README.md)
+
