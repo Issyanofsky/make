@@ -57,3 +57,5 @@ Evry single business, regurdless of size, industry, length of existence, busines
      - SMB and Simple Use Case focus automation tools (Zapier)
      - Enterprise focus (Workato, Tray.io, Power Automate)
      - Large Enterprise focus (Mulesoft composer, Boomi, Jitterbit)
+
+![Comparison to competitors](/pic/comparison_tp_our_key_competititors.gif)
