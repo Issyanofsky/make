@@ -41,6 +41,54 @@ after having some expiriance. you can provide consulting service (AI, chatbox..e
 
 # Revenue share opportunity
 
+## Affiliate.
 
+in the user profile you can get a affiliate link for customers to get the moka (i get revenue from make).
+there a need to sighn firts.
 
-  
+## Co-selling
+
+If your customer is interested in our Enterprise plan, ensure to register the lead information in our partner portal to be eligible for potential commissions.
+
+# new customer
+
+1. Understanding how to process work with NO automation.
+   a. Have the customer show you step by step on a screen sharing session.
+
+2. Understand edge cases which may happen (ex. what you do with double data, cases not solve...etc).
+
+3. Set expectations
+   a. when to expect the first version vs. final version.
+   b. what kind of inputs will be required from customer.
+   c. what kind of testing will be required on customer's side.
+   d. create a written document of planned automations/solutions and get it approved by the customer?
+
+4. Decide on ownership of Make organization
+   a. RECOMENDED: Customer is the owner
+     - Create new Make organization for the customer and make the customer owner - you can create the organization for the customer and transfer ownership later.
+     - Or the customer can create the org on his own via your affiliate and then invite you as admin.
+   b. Partner is the owner
+
+## Creatin a new organization for the customer and transfering to the customer
+
+create an organization:
+
+    on the main page (in my make.com) --> user --> profile
+
+    press - Create a new organization
+
+add user (invite the customer into the organization):
+
+    enter to the org you want
+
+    on the top prss users tab.
+
+    press "Invite a new user" -->  entre the user data.   
+
+    * the customer need to approve the invitation (he got an email on creating the user) and log in to the make account.
+
+Transfering ownership:
+
+    enter to the organization you want to transfare.
+
+    on the top under "Organization settings" - choose "Transfer ownership"
