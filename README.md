@@ -1,6 +1,6 @@
 <div align="center">
 
-![DevOps](pic/make_logo.gif)
+![Make](pic/make_logo.gif)
 </div>
 
 # Legend:
