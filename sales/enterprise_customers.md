@@ -14,5 +14,5 @@ There are two main types of Enterprise customers:
 
 here are some example of these two types of Enterprise customers:
 
-
+![Existing Enterprise Customers](/pic/existing_enterprise_customer.gif)
 
