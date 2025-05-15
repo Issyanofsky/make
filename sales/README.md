@@ -17,4 +17,4 @@
        * [Business Development Process](business_development_process.md)
    * [Sales Process](sales_process.md)
        * [Lead to Opportunity Sales Process](lead_to_opportunity_sales_process.md)    
-  
+       * [Deal Closing & Contractual Requirements](deal_closing&contractual_requirements.md)      
