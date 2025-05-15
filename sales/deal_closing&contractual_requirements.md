@@ -109,7 +109,7 @@ __Important Stakeholders during the whole sales process__
 
 Check the visual below which provides a clear overview of all the requirements that you as a partner need to fulfill to receive the referral fees
 
-
+![To receive referral fees, you have to](/pic/to_recive_referral_fees.gif)
 
 
 
@@ -140,4 +140,4 @@ The Customer Success team has initiated the onboarding process and the customer 
 
 To conclude this sales enablement, we would like to present to you how Make operates as a Business and why your role is so important to bring more revenue but most importantly, to leverage your great relationships with your existing and new customers!
 
-
+![ARR is a key metric for measuring performance in a SaaS business](/pic/arr_is_a_key_metric_for_measuring_performance.gif)
