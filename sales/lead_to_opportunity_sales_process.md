@@ -141,7 +141,7 @@ __Important Steps__
  5. Engage with the GTM Team to properly scope the operations and finalize the quote for the customer
  6. With larger deals (above $50k ACV) Start preparing the MDP plan with the solution engineering team and the end customer
 
-__MDP (Mutual Delivery Plan) between Customer & Make __
+__MDP (Mutual Delivery Plan) between Customer & Make__
 
 The purpose of the Mutual Delivery Plan is to clearly define responsibility and account for the various work streams that occur during a Make implementation. As a means of ensuring Customer success, representatives from the Customer, Make and the partner (where appropriate) mutually agree and document the tasks, owners, timeline, and budgetary guidance to ensure alignment. 
 
