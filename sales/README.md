@@ -15,3 +15,6 @@
        * [Ideal Customer Profile](ideal_customer_profile.md)
        * [Decision Process & Stakeholders](decision_process&Stakeholders.md)
        * [Business Development Process](business_development_process.md)
+   * [Sales Process](sales_process.md)
+       * [Lead to Opportunity Sales Process](lead_to_opportunity_sales_process.md)    
+  
