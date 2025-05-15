@@ -3,125 +3,106 @@
 # Lead to Opportunity Sales Process
 </div>
 
+__Key Milestones__
 
- Lead to Opportunity Sales Process
-Enable fullscreen
-Lesson Duration: 30 mins
-
-
-
-Key Milestones of this lesson
-
-Make Service Partner co-sell activities and their definitions
-Lead identification, qualification & registration via the opportunity registration form
-Lead conversion
-Opportunity discovery & progression
-
+1. Make Service Partner co-sell activities and their definitions
+2. Lead identification, qualification & registration via the opportunity registration form
+3. Lead conversion
+4. Opportunity discovery & progression
 
 In this lesson, you will learn about the whole end-to-end sales cycle from your perspective as a partner which will allow you to understand all the important steps to successfully co-sell a deal with the Make team and receive all the benefits that you are eligible for.
 
 
-
-Sales Activities & Referral Fees
+## Sales Activities & Referral Fees
 
 In order to receive the referral fees, you must follow the three main steps below:
 
-
-
-
+![To be eligible for referral feed, Partner must](/pic/to_be_eligible_for_referral_feed.gif)
 
 Before we go deeper into the actual sales process, let's quickly align on the key sales activities which are introduced in the official Make Partner Program and explain how the partner can engage with the opportunity in order to be eligible for a specific referral fee. The main three sales activities and engagement for Enterprise opportunities are:
 
-1. Lead Sourcing = Sourcing the opportunity by introducing relevant Enterprise end customer stakeholders to the Make team and registering the opportunity using the opportunity registration form
+__1. Lead Sourcing__ = Sourcing the opportunity by introducing relevant Enterprise end customer stakeholders to the Make team and registering the opportunity using the opportunity registration form
 
-2. Co-selling = Participating or initiating key meetings with the end customer. Supporting our team during the PoC phase with expert industry customer know-how if a PoC is part of the sale cycle. Executing the PoC with or without our support. Playing an important role during the opportunity sales cycle.
+__2. Co-selling__ = Participating or initiating key meetings with the end customer. Supporting our team during the PoC phase with expert industry customer know-how if a PoC is part of the sale cycle. Executing the PoC with or without our support. Playing an important role during the opportunity sales cycle.
 
-3. Service Delivery =  Partner provides post-sales service and plays a crucial role to help to build a strong relationship with the customer to grow their account and support future upsell opportunities
+__3. Service Delivery__ =  Partner provides post-sales service and plays a crucial role to help to build a strong relationship with the customer to grow their account and support future upsell opportunities
 
 You can find more details about the referral fees and their structure in the partner program guide document which is shared with you individually by the Make Partnership Team.
 
 
 
-End-to-end sales cycle
+__End-to-end sales cycle__
 
 The whole end-to-end sales cycle is outlined in the visual below and during this chapter, we are going to go into more detail with each step.
 
+![End-to-end sales cycle](/pic/end_to_end_sales_cycle.gif)
 
-
-
-
-Stage 1 - Lead Identification & Qualification
+## Stage 1 - Lead Identification & Qualification
 
 The whole sales cycle starts with lead identification which means that you search within your current network of potential customers or proactively prospect new leads and customers within the ideal customer profile group. After you have successfully reached out to the targeted persona, you shall apply the basic GPCA qualification technique and progress with the lead.
 
-Important Steps
+__Important Steps__
 
-Target and prospect the right persona based on the Enterprise ICP 
-Qualify the lead with a qualification method such as GPCA or others (more details in chapter 3)
-Identify their goals, plans, challenges, and authority
-
-Confirm the next steps with the lead
-Desired Outcome
+ 1. Target and prospect the right persona based on the Enterprise ICP
+    * Qualify the lead with a qualification method such as GPCA or others (more details in chapter 3)
+ 2. Identify their goals, plans, challenges, and authority
+ 3. Confirm the next steps with the lead
+    
+__Desired Outcome__
 
 Qualified lead with the right plans, goals, acknowledged pain points, and the right authority to move the discussion about the Make Enterprise solution to the next stage
 
-Useful Sales Assets
+__Useful Sales Assets__
 
-Make Use Case Repository
-Enterprise Fact Sheet
+ 1. Make Use Case Repository
+ 2. Enterprise Fact Sheet
+    
 Note: You can find these assets on the partner portal after you sign the partnership agreement.
 
 
 
-Deal Registration via the Opportunity Registration Form
+__Deal Registration via the Opportunity Registration Form__
 
 Firstly, you will need to pass the required training & certifications. Then you need to sign the partnership contract. After that, you will get access to the partner portal where you will find very useful Sales Assets such as use case repositories, slide decks, factsheets, process guides, and much more.
 
+![Deal Registration](/pic/deal_registration.gif)
+
+__1.A  - Register the opportunity through the Opportunity Registration Form (Partner Portal)__
+
+![Welcome to Make Partner Portal](/pic/welcome_to_make_partner_portal.gif)
+
+__1.B - Register the opportunity through the Opportunity Registration Form (Make Website - Partner Page)__
+
+![Partner with Make and grow faster than ever](/pic/partner_up_with_make.gif)
+
+__2. Fill out the customized form to register the new deal/opportunity__
 
 
+![New opportunity registration](/pic/new_opportunity_registration.gif)
 
 
-1.A  - Register the opportunity through the Opportunity Registration Form (Partner Portal)
-
-
-
-
-
-1.B - Register the opportunity through the Opportunity Registration Form (Make Website - Partner Page)
-
-
-
-
-
-2. Fill out the customized form to register the new deal/opportunity
-
-
-
-
-
-3. Once the submission has been made, you will receive a confirmation email
+3. Once the submission has been made, you will receive a __confirmation email__
 
 4. The new lead is instantly created in Make’s CRM system and your account is directly linked as the source of the opportunity
 
-5. Partner Manager gets a notification and informs you about the next steps within a maximum of 5 working days
+5. Partner Manager gets a notification and informs you about the next steps within a __maximum of 5 working days__
+   
 6. Our team is going to inform you about the next steps before contacting the customer
 
 7. There are three options for what happens next and we will go into more detail in the description of Stage 2
 
 
-Stage 2 - Lead Conversion
+## Stage 2 - Lead Conversion
 
 After the initial touch point with the prospect and successful opportunity registration via the partner portal, there are three main options for the next steps
 
 
 
-Opportunity Accepted
+1. __Opportunity Accepted__
 
-Co-selling  = You would like to execute a lot of the opportunity progression activities like Proof of Concept and building use cases after the Make partner manager accepts the deal and converts it into an opportunity. The Regional Sales Director is informed and the respective Account Executive is assigned as an owner of the opportunity and you cooperate with the GTM Team on later activities
-
-Lead Sourcing = You only want to source the opportunity and let the GTM team handle the opportunity progression
-
-Opportunity Rejected - The deal is rejected and you are informed by the partner manager about the next steps
+  1. __Co-selling__  = You would like to execute a lot of the opportunity progression activities like Proof of Concept and building use cases after the Make partner manager accepts the deal and converts it into an opportunity. The Regional Sales Director is informed and the respective Account Executive is assigned as an owner of the opportunity and you cooperate with the GTM Team on later activities
+  2. Lead Sourcing = You only want to source the opportunity and let the GTM team handle the opportunity progression
+2. Opportunity Rejected - The deal is rejected and you are informed by the partner manager about the next steps
 
 
 Important Steps
