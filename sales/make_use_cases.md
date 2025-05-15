@@ -22,6 +22,7 @@ When initiating discussions with prospects and customers, there are two main sit
      - __Automatic accross creation flow__
        
        a. Creating tickets
+       
        b. Notifying people - saves 30 min of manual work per new hire.
        
      - __Synchronize records from your CRM (Salesforce) into the project management tool (Monday.com).__
