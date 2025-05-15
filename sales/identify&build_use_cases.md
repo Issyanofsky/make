@@ -125,80 +125,44 @@ The PoV (Proof of Value) is a combination of a PoC (Proof of Concept) and the co
 
 
 
-Here is a brief overview of the PoV structure and best practices (here are only example values)
+__Here is a brief overview of the PoV structure and best practices (here are only example values)__
 
-Business Value
+__Business Value__
 
-Currently, Customer XYZ is manually performing these types of processes and tasks
-They struggle with this type of system 
-Goals
-The customer is looking to change their data infrastructure in order to have an ETL environment that is easier for their team to work with, making their data more accessible and actionable
-Improve both backend processes and user experience throughout the entire staffing cycle for each candidate
-Success Criteria
+   - Currently, Customer XYZ is manually performing these types of processes and tasks
+   - They struggle with this type of system
+     
+__Goals__
 
-Use Case
+   - The customer is looking to change their data infrastructure in order to have an ETL environment that is easier for their team to work with, making their data more accessible and actionable
+   - Improve both backend processes and user experience throughout the entire staffing cycle for each candidate
+     
+__Success Criteria__
 
-Complete Date
+|                                          Use Case                                                | Complete Date  |
+|:-------------------------------------------------------------------------------------------------|:---------------|
+| 1. Be able to construct one of each of the 4 types of API calls that are currently used          | DD.MM.YYYY     |
+| 2. Ensure the flow updates as expected                                                           | DD.MM.YYYY     | 
+| 3. Compatibility with Snowflake, and the ability to issue some simple SQL commands to Snowflake  | DD.MM.YYYY     |
 
-Be able to construct one of each of the 4 types of API calls that are currently used
+__Prerequisites__
 
-DD.MM.YYYY
-
-Ensure the flow updates as expected
-
-DD.MM.YYYY
-
-Compatibility with Snowflake, and the ability to issue some simple SQL commands to Snowflake
-
-DD.MM.YYYY
-
-Prerequisites
-
-Prerequisites needed
-
-Available Date
-
-Access to non-production application X
-
-DD MMM YYYY
-
-Access to non-production application Y
-
-DD MMM YYYY
-
-Access to non-production application Z
-
-DD MMM YYYY
+| Prerequisites needed                                                                             | Available Date |
+|:-------------------------------------------------------------------------------------------------|:---------------|
+| Access to non-production application X                                                           | DD MMM YYYY    |
+| Access to non-production application Y                                                           | DD MMM YYYY    |
+| Access to non-production application Z                                                           | DD MMM YYYY    |
 
 
-
-Make PoV Framework
+__Make PoV Framework__
 
 Not all PoVs are the same and it is important to be able to distinguish between different types of involvement of the partner and the Make Sales team. Each type has its Pros and Cons and we hope that this brief overview will help you to steer the discussion and engagement with the customer to the desired directions
 
-Type / Outcome
-
-Self-Service (Open)
-
-Guided Trial (Neverending)
-
-POV (Define Use Cases & Success)
-
-Relationship
-
-Low
-
-Medium
-
-High
-
-Influence
-
-Low
-
-Medium
-
-High
+| Type / Outcome   |               Self-Service (Open)                    |                Guided Trial (Neverending)                |                 POV (Define Use Cases & Success)                     |
+|:-----------------|:-----------------------------------------------------|:---------------------------------------------------------|:---------------------------------------------------------------------|
+| __Relationship__ | Low                                                  | Medium                                                   | High                                                                 |
+| __Influence__    | Low                                                  | Medium                                                   | High                                                                 |
+|                  |                                                      |                                                          |
 
 Pros
 
