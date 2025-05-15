@@ -117,3 +117,6 @@ __Authority__
     - Is the person an important stakeholder that can influence the deal (Champion)?
     - Is it an executive that has the power to sign off on a budget for a new tool in the company (Decision Maker)?
   - What would be the reason to use Make?
+
+
+![Linkdin search ctagories](/pic/linkdin_search_ctagories.gif)
