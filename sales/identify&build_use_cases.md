@@ -96,7 +96,7 @@ The PoV (Proof of Value) is a combination of a PoC (Proof of Concept) and the co
 
 
 |                                  Objectives of the PoV                                   |                                 Required Steps in the PoV                                 |
-|:----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
+|:-----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
 | - Customer success                                                                       |  - Prepare / Execute / Follow up                                                          |
 | - Define & confirm success criteria                                                      |     &nbsp;&nbsp;&nbsp;* Requirements & prerequisite                                                          |
 | - Define timeline (urgency)                                                              |      - Research and precall                                                               |
