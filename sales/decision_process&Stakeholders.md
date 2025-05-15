@@ -67,3 +67,5 @@ __Typical titles__
   - Vendor assessment team
 
 You can check the final visual below that outlines the possible decision-making process during an enterprise sales opportunity
+
+![Most Common Decision Process & Stakeholders](/pic/most_common_decision_process&stakeholders.gif)
