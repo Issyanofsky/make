@@ -102,103 +102,103 @@ After the initial touch point with the prospect and successful opportunity regis
        
 2. __Opportunity Rejected__ - The deal is rejected and you are informed by the partner manager about the next steps
 
+__Important Steps__
 
-Important Steps
-
-Communicate with your partner manager about the next steps
-Qualify the opportunity, confirm the budget of the end customer and agree on the more technical discovery process, Proof of Concept, and other steps
-Align the next steps and identify important stakeholders within the end customer's team
-Desired Outcome
+ 1. Communicate with your partner manager about the next steps
+ 2. Qualify the opportunity, confirm the budget of the end customer and agree on the more technical discovery process, Proof of Concept, and other steps
+ 3. Align the next steps and identify important stakeholders within the end customer's team
+    
+__Desired Outcome__
 
 You have qualified for the opportunity and confirmed the next steps with the end customer and the Make team
 
-identified their main use cases 
-articulated key pain points 
-confirmed their budget and need for Make Enterprise
-allocated all important stakeholders
-Useful Sales Assets
+ - identified their main use cases
+ - articulated key pain points
+ - confirmed their budget and need for Make Enterprise
+ - allocated all important stakeholders
+   
+__Useful Sales Assets__
 
-Make Use Case Repository
-Sales, Marketing, HR, Services
-Enterprise Fact Sheet
-Make Enterprise First Call Deck
-Enterprise Pricing & Packaging
+ 1. Make Use Case Repository
+    1. Sales, Marketing, HR, Services
+    
+ 2. Enterprise Fact Sheet
+ 3. Make Enterprise First Call Deck
+ 4. Enterprise Pricing & Packaging
+    
 Note: You can find these assets on the partner portal after you sign the partnership agreement.
 
-Stage 3 - Discovery & Progression
+## Stage 3 - Discovery & Progression
 
 Start building your business case and agree on the PoV/PoC process if necessary. In this stage, it is important to present a feasible business case with a structured execution plan that will meet all the technical requirements and solve the issues for the customer. After successful identification of the business case, engage with the GTM sales team to handle possible security questionnaires, pricing of the enterprise plan, and quoting.
 
+__Important Steps__
 
+ 1. Align the scope and define clearly measurable goals of the use case with the end customer
+ 2. Collaborate with the customer to ensure all technical requirements are solved during the PoC/PoV process
+ 3. If necessary, collaborate with the GTM sales team to answer a security questionnaire (follow the process described below)
+ 4. If needed, cooperate with the GTM team to provide Enterprise trial instance → objectives, requirements, and stakeholders are described in the visual below
+ 5. Engage with the GTM Team to properly scope the operations and finalize the quote for the customer
+ 6. With larger deals (above $50k ACV) Start preparing the MDP plan with the solution engineering team and the end customer
 
-Important Steps
-
-Align the scope and define clearly measurable goals of the use case with the end customer
-Collaborate with the customer to ensure all technical requirements are solved during the PoC/PoV process
-If necessary, collaborate with the GTM sales team to answer a security questionnaire (follow the process described below)
-If needed, cooperate with the GTM team to provide Enterprise trial instance → objectives, requirements, and stakeholders are described in the visual below
-Engage with the GTM Team to properly scope the operations and finalize the quote for the customer
-With larger deals (above $50k ACV) Start preparing the MDP plan with the solution engineering team and the end customer
-
-MDP (Mutual Delivery Plan) between Customer & Make 
+__MDP (Mutual Delivery Plan) between Customer & Make __
 
 The purpose of the Mutual Delivery Plan is to clearly define responsibility and account for the various work streams that occur during a Make implementation. As a means of ensuring Customer success, representatives from the Customer, Make and the partner (where appropriate) mutually agree and document the tasks, owners, timeline, and budgetary guidance to ensure alignment. 
 
-
-
-Desired Outcome
+__Desired Outcome__
 
 You have agreed on the business case and technical scope of the project with the end customer. If necessary, you have cooperated with the GTM sales team to answer a security questionnaire and engaged with the Account Executive in pricing & packaging discussions and alignment
 
 
-Useful Sales Assets
+__Useful Sales Assets__
 
-PoC Document Guide (Chapter 2)
-PoV light Template (Chapter 2)
-Operations Calculator (Chapter 2)
-Enterprise Security Whitepaper
-Security Details for Make 3rd party applications
+ 1. PoC Document Guide (Chapter 2)
+ 2. PoV light Template (Chapter 2)
+ 3. Operations Calculator (Chapter 2)
+ 4. Enterprise Security Whitepaper
+ 5. Security Details for Make 3rd party applications
+    
 Note: You can find these assets on the partner portal after you sign the partnership agreement.
 
-Make PoV Framework
+__Make PoV Framework__
 
 To help you progress the deal in the right direction, you should cooperate with the Make team in building a successful PoV (Proof of Value) project but make sure to get a certain level of commitment from the customer.
 
+![Make POV Framework](/pic/make_pov_framework.gif)
 
-
-Enterprise Security Review Support
+__Enterprise Security Review Support__
 
 Some larger companies (usually above 500 employees or companies that handle sensitive data) require full security review support. During this process, the security team from the end customer requests a security review to answer questions regarding Make data handling and security. If the customer requests this type of assessment, please follow the steps below. This type of support is only available with the Enterprise plan, therefore it should be pretty clear which plan is suitable for these types of customers.
 
+![Enterprise Security Review Support](/pic/enterprise_security_review_support.gif)
 
-
-
-
-Scope the Project - Enterprise Pricing & Packaging
+__Scope the Project - Enterprise Pricing & Packaging__
 
 Enterprise Plan offers flexible pricing and packaging that is customized for every single customer. During the co-selling activity, you will be cooperating with the Account Executive to finalize the pricing and send out a quote to the customer. Here is the overview of the process. 
 
 Please, do not engage in detailed pricing discussions with the customer before consulting it with the Make GTM team!
 
+![Enterprise Pricing & Packaging](/pic/enterprise_pricing&packaging.gif)
 
 
 
+__Enterprise Trial Instance *If Applicable__
 
-Enterprise Trial Instance *If Applicable
+__Objective__
 
-Objective
+ - During the evaluation or PoC process of the Make Enterprise solution, customers sometimes require access to dedicated instances which will allow them to test the Enterprise-only feature
+ - Make team can provide a time-limited Make organization account with unlocked Enterprise features and high usage allowance to the end customers
+ - The customer needs to sign an NDA before moving forward
+   
+__Important Stakeholders__
 
-During the evaluation or PoC process of the Make Enterprise solution, customers sometimes require access to dedicated instances which will allow them to test the Enterprise-only feature
-Make team can provide a time-limited Make organization account with unlocked Enterprise features and high usage allowance to the end customers
-The customer needs to sign an NDA before moving forward
-Important Stakeholders
+ 1. Solution Engineer - owns the trial instance process for a given opportunity
+ 2. AE - manages the NDA and other contractual documents
+ 3. Service Partner - communicates with the customer and aligns the expectations and requirements on both sides. Requests the trial Instance from the Make team
+    
+__Requirements__
 
-Solution Engineer - owns the trial instance process for a given opportunity
-AE - manages the NDA and other contractual documents 
-Service Partner - communicates with the customer and aligns the expectations and requirements on both sides. Requests the trial Instance from the Make team
-Requirements
+ 1. NDA signed with the customer
+ 2. The customer is committed to investing the required time
+ 3. The mutual close plan is established. Do not give away trial instances for free. Make sure that the customer is committed and you mutually agreed on a success plan with all the stakeholders
 
-NDA signed with the customer
-The customer is committed to investing the required time
-The mutual close plan is established. Do not give away trial instances for free. Make sure that the customer is committed and you mutually agreed on a success plan with all the stakeholders
-In the following chapter, we will focus on the closing and contractual parts of the opportunity.
