@@ -32,5 +32,35 @@ Those are out-of-the-box use cases that work for most of our customers in almost
 
 ![Expend the use cases across other departments](/pic/most_common_use_cases_with_make.gif)
 
-# Many use cases across the entire Enterprise or any organization
+## Many use cases across the entire Enterprise or any organization
+
+Make is a visual automation tool that can solve different challenges in every department across any role which creates a big potential on the market. To get a better idea, check the visual below. On top of that, let's go one level deeper into more detailed department use cases and success stories.
+
+![Make across the entire organizaion](/pic/make_across_the_entire_organization.gif)
+
+__Here are examples of more detailed use cases across different departments such as Sales, Marketing, or HR.__
+
+![Automation "Sweet Spot" for Marketing](/pic/automation_sweet_spot_for_marketing.gif)
+
+![Marketing](/pic/marketing.gif)
+
+![Automation "Sweet Spot" for HR](/pic/automation_sweet_spot_for_hr.gif)
+
+![HR](/pic/hr.gif)
+
+![Automation "Sweet Spot" for Sales](/pic/automation_sweet_spot_for_sales.gif)
+
+![Sales Autonation](/pic/sales_automation.gif)
+
+## Customer Sucess Stories
+
+Before going into more detail on how to identify and build use cases, we are going to show you some customer sucess stories which show the impact of Make on their business in the most realistic way. FINN is the best example of how you can integrate Make into the company and build the entire business on a no-cod automation platform.
+
+![FINN](/pic/finn1.gif)
+
+![FINN](/pic/finn2.gif)
+
+![Wenn](/pic/wenn.gif)
+
+![Large European Brewery](/pic/large_european_brewery.gif)
 
