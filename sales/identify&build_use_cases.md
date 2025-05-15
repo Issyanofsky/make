@@ -96,29 +96,21 @@ The PoV (Proof of Value) is a combination of a PoC (Proof of Concept) and the co
 
 
 |                                  Objectives of the PoV                                   |                                 Required Steps in the PoV                                 |
-|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|:----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
 | - Customer success                                                                       |  - Prepare / Execute / Follow up                                                          |
-| - Define & confirm success criteria                                                      |    * Requirements & prerequisite                                                          |
+| - Define & confirm success criteria                                                      |     &nbsp;&nbsp;&nbsp;* Requirements & prerequisite                                                          |
 | - Define timeline (urgency)                                                              |      - Research and precall                                                               |
-| - Set traps for competition                                                              |    * Execute & best practices                                                             | 
+| - Set traps for competition                                                              |     &nbsp;&nbsp;&nbsp;* Execute & best practices                                                             | 
 | - Validation solution                                                                    |      - PoC guide                                                                          |
 |   - Prove use case                                                                       |      - Hands-on support                                                                   |
-|   - Deliver on success criteria                                                          |    * Follow-up & MDP (Mutual Decision Plan)                                               |
+|   - Deliver on success criteria                                                          |     &nbsp;&nbsp;&nbsp;* Follow-up & MDP (Mutual Decision Plan)                                               |
 | - Prove value                                                                            |      - Confirm successful use cases                                                       |
 | - Remove technical & value blockers                                                      |      - Deliver champion deck                                                              |
 | - Technical validation (Tech Win)                                                        |      - Confirm business value                                                             |
 
-
-
-
-
-
-
-
-
-
-Where the PoV Fits into the Sales Process
-Qualification Criteria Before Doing PoV
+| Where the PoV Fits into the Sales Process | Qualification Criteria Before Doing PoV |
+|-------------------------------------------|-----------------------------------------|
+|
 After technical discovery - the customer must be a good fit
 Mutual agreement on what success looks like
 Depends on the size of the deal and the type of PoC
