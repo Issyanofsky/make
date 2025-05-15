@@ -108,19 +108,19 @@ The PoV (Proof of Value) is a combination of a PoC (Proof of Concept) and the co
 | - Remove technical & value blockers                                                      |      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Deliver champion deck                                                              |
 | - Technical validation (Tech Win)                                                        |      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Confirm business value                                                             |
 
-| Where the PoV Fits into the Sales Process | Qualification Criteria Before Doing PoV |
-|-------------------------------------------|-----------------------------------------|
-|
-After technical discovery - the customer must be a good fit
-Mutual agreement on what success looks like
-Depends on the size of the deal and the type of PoC
+|            Where the PoV Fits into the Sales Process                |       Qualification Criteria Before Doing PoV             |
+|:--------------------------------------------------------------------|:----------------------------------------------------------|
+|                                                                     | Depends on the size of the deal and the type of PoC       |
+|                                                                     |                                                           |
+|                                                                     | - Customer sponsorship (Champion)                         |
+|   - After technical discovery - the customer must be a good fit     | - Identify applications and business processes            |
+|   - Mutual agreement on what success looks like                     | - Identify business stakeholders                          |
+|                                                                     | - Value                                                   |
+|                                                                     | - Define and agree on identified pain                     |
+|                                                                     | - Good technical fit                                      |
 
-Customer sponsorship (Champion)
-Identify applications and business processes
-Identify business stakeholders
-Value
-Define and agree on identified pain
-Good technical fit
+
+
 
 
 
