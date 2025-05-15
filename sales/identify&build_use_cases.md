@@ -162,8 +162,8 @@ Not all PoVs are the same and it is important to be able to distinguish between 
 |:-----------------|:-----------------------------------------------------|:---------------------------------------------------------|:---------------------------------------------------------------------|
 | __Relationship__ | Low                                                  | Medium                                                   | High                                                                 |
 | __Influence__    | Low                                                  | Medium                                                   | High                                                                 |
-|                  |                                                      |                                                          | * Good Commitment                                                    |
-| __Pros__         | * Customer Invested                                  | * Visibility                                             | * Defined & Documented the Scope                                     |
+| __Pros__         |                                                      |                                                          | * Good Commitment                                                    |
+|                  | * Customer Invested                                  | * Visibility                                             | * Defined & Documented the Scope                                     |
 |                  | * Hard to Qualify                                    | * Solution Engineer or Partner help to navigate          | * Good Visibility                                                    |
 |                  | * No Solution Engineer or partner resources needed   |                                                          | * Depends on the Segment/Industry                                    |
 | __Cons__         |                                                      | * Low Commitment                                         |                                                                      |
