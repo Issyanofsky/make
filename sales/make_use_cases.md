@@ -19,9 +19,11 @@ When initiating discussions with prospects and customers, there are two main sit
      - __Data retrieval, normalization, and writing into database from external websites.__
      - __Filling out forms and regulatory compiance.__
      - __Getting data into a usable format.__
-     - __Automatic accross creation flow
+     - __Automatic accross creation flow__
+       
        a. Creating tickets
        b. Notifying people - saves 30 min of manual work per new hire.
+       
      - __Synchronize records from your CRM (Salesforce) into the project management tool (Monday.com).__
      - __IT - Password retrival anytime somebody forget a password.__
        
