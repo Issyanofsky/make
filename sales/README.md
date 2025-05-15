@@ -14,4 +14,4 @@
        * [Make Target Market](make_target_market.md)
        * [Ideal Customer Profile](ideal_customer_profile.md)
        * [Decision Process & Stakeholders](decision_process&Stakeholders.md)
-
+       * [Business Development Process](business_development_process.md)
