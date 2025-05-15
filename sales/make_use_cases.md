@@ -12,8 +12,7 @@ __Chapter milestones:__
 
 
 
-
-![Key Value od Make](/pic/key_value_propositions_for_enterprise_customers.gif)
+![Expend the use cases across other departments](/pic/most_common_use_cases_with_make.gif)
 
 
   1. The simplicity of visual low-code interface (superior UX/UI experience)
