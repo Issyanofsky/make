@@ -175,35 +175,36 @@ __Build a Business Case for Enterprise Customers__
 
 There are several ways how you can start building use cases for your customers. The Make Solution Engineering team for example leverages the Miro lane diagram to display certain layers within the systems and the involvement of Make as a glue between the different tools. The visual below describes an HR onboarding use case and account activation for a new hire in the company. The applications like GreenHouse, Google Sheets, or Jira are displayed only as examples and can in reality be substituted by multiple equivalents such as Microsoft Excel, Airtable, Monday.com, or anything that the customer currently uses
 
-1.0 HR Onboarding - account provisioning use case
+__1.0 HR Onboarding - account provisioning use case__
+
+![Swim Lane Diagram Example](/pic/swim_lane_diagram_example1.gif)
 
 
 
-
-
-1.1 HR Onboarding - account provisioning use case after Make
+__1.1 HR Onboarding - account provisioning use case after Make__
 
 As you can see in the diagram below, automation with Make reduces the number of steps within the process from 12 to 9, which streamlined the whole process. We believe that the visual illustrations displayed in these two pictures can help the customer:
-
-Understand the current process much better
-Identify bottlenecks and inefficiencies 
-Grasp the value of Make faster 
-Estimate the impact on the business
+   - Understand the current process much better
+   - Identify bottlenecks and inefficiencies
+   - Grasp the value of Make faster
+   - Estimate the impact on the business
+     
 In reality, this diagram can look very different depending on each individual customer, their processes, and systems the use.
 
+![Swim Lane Diagram Example](/pic/swim_lane_diagram_example2.gif)
 
+__Here are some final tips on how to build a business case for Enterprise Customers__
 
-Here are some final tips on how to build a business case for Enterprise Customers
-
-Active listening
-Understand the pain
-Listen for technology specification
-Ask the right discovery questions (see the PoC guide at the beginning of the lesson)
-The usual requirements for getting a PoC approved from a prospect
-Start and end date (Ideally 2 weeks, max up to 4 weeks with special approval)
-Clear success criteria
-Prospect agrees to recommend Make as a solution to purchase if success criteria are reached
-Create a communication channel with all involved stakeholders (i.e. Slack)
-Understand the buying process
-Legal and IT review process is understood and running during the PoC
-Final decision-making meeting scheduled during Po
+1. __Active listening__
+   1. Understand the pain
+   2. Listen for technology specification
+   3. Ask the right discovery questions (see the PoC guide at the beginning of the lesson)
+      
+2. __The usual requirements for getting a PoC approved from a prospect__
+   1. Start and end date (Ideally 2 weeks, max up to 4 weeks with special approval)
+   2. Clear success criteria
+   3. Prospect agrees to recommend Make as a solution to purchase if success criteria are reached
+   4. Create a communication channel with all involved stakeholders (i.e. Slack)
+   5. Understand the buying process
+   6. Legal and IT review process is understood and running during the PoC
+   7. Final decision-making meeting scheduled during Po
