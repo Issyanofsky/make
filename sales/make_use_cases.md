@@ -32,5 +32,5 @@ Those are out-of-the-box use cases that work for most of our customers in almost
 
 ![Expend the use cases across other departments](/pic/most_common_use_cases_with_make.gif)
 
+# Many use cases across the entire Enterprise or any organization
 
-  1. The simplicity of visual low-code interface (superior UX/UI experience)
