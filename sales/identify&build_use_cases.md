@@ -162,54 +162,16 @@ Not all PoVs are the same and it is important to be able to distinguish between 
 |:-----------------|:-----------------------------------------------------|:---------------------------------------------------------|:---------------------------------------------------------------------|
 | __Relationship__ | Low                                                  | Medium                                                   | High                                                                 |
 | __Influence__    | Low                                                  | Medium                                                   | High                                                                 |
-|                  |                                                      |                                                          |
+|                  |                                                      |                                                          | * Good Commitment                                                    |
+| __Pros__         | * Customer Invested                                  | * Visibility                                             | * Defined & Documented the Scope                                     |
+|                  | * Hard to Qualify                                    | * Solution Engineer or Partner help to navigate          | * Good Visibility                                                    |
+|                  | * No Solution Engineer or partner resources needed   |                                                          | * Depends on the Segment/Industry                                    |
+| __Cons__         |                                                      | * Low Commitment                                         |                                                                      |
+|                  | * Difficult to solve blockers                        | * Not a lot of control                                   | * More Resources depending on Segment/Industry                       |
+|                  | * Poor Relationship                                  | * ‘Just one more test’                                   |                                                                      |
+| __When__         | Deal Size < $10K                                     | Deal Size > $10K                                         | Deal Size > $100K Or OEM Deal                                        |
 
-Pros
-
-Customer Invested
-
-Hard to Qualify
-
-No Solution Engineer or partner resources needed
-
-Visibility
-
-Solution Engineer or Partner help to navigate 
-
-Good Commitment
-
-Defined & Documented the Scope
-
-Good Visibility
-
-Depends on the Segment/Industry
-
-Cons
-
-Difficult to solve blockers
-
-Poor Relationship
-
-Low Commitment
-
-Not a lot of control
-
-‘Just one more test’
-
-More Resources depending on Segment/Industry
-
-When
-
-Deal Size < $10K
-
-Deal Size > $10K
-
-Deal Size > $100K
-Or OEM Deal
-
- 
-
-Build a Business Case for Enterprise Customers
+__Build a Business Case for Enterprise Customers__
 
 There are several ways how you can start building use cases for your customers. The Make Solution Engineering team for example leverages the Miro lane diagram to display certain layers within the systems and the involvement of Make as a glue between the different tools. The visual below describes an HR onboarding use case and account activation for a new hire in the company. The applications like GreenHouse, Google Sheets, or Jira are displayed only as examples and can in reality be substituted by multiple equivalents such as Microsoft Excel, Airtable, Monday.com, or anything that the customer currently uses
 
