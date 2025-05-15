@@ -1,3 +1,7 @@
+<div align="center">
+
+# Sales Process
+</div>
 
 Through this chapter, you will be able to understand the crucial Enterprise opportunity stages and steps that will allow you to successfully co-sell a deal with Make and receive partner referral fees.
 
