@@ -15,7 +15,7 @@ __Chapter milestones:__
 When initiating discussions with prospects and customers, there are two main situations that can occur:
 
   1. The prospect has already identified the current problem and challenges he/she faces in the business. It might be use cases in their marketing department when they want to synchronize data between their CRM )HubSpot or Salesforce) and Marketing engine system (Pardot or Mrketo). Or the HR team would like to automate their onboarding processes or integrate their HCM system (Workday) with their acquisition platform (Greenhouse) and others --> __In  this case, you should deep dive into these problems, build a successful POC & POV processes, and discuss with customers on the next step.__
-  2. The prospect does not have many ideas about automation potential and need help with discovering the use cases across her/his field of expertise. There are several initial point-to-point soulutions and use cases that can work preety much any company. if these are successfully executed, it should open the door to more complex use cases across the entire organization in the future. Here ara a fewexamples:
+  2. The prospect does not have many ideas about automation potential and need help with discovering the use cases across her/his field of expertise. There are several initial point-to-point solutions and use cases that can work pretty much any company. if these are successfully executed, it should open the door to more complex use cases across the entire organization in the future. Here ara a fewexamples:
      - __Data retrieval, normalization, and writing into database from external websites.__
      - __Filling out forms and regulatory compiance.__
      - __Getting data into a usable format.__
