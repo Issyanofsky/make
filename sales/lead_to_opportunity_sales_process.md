@@ -96,13 +96,11 @@ __2. Fill out the customized form to register the new deal/opportunity__
 
 After the initial touch point with the prospect and successful opportunity registration via the partner portal, there are three main options for the next steps
 
-
-
 1. __Opportunity Accepted__
-
-  1. __Co-selling__  = You would like to execute a lot of the opportunity progression activities like Proof of Concept and building use cases after the Make partner manager accepts the deal and converts it into an opportunity. The Regional Sales Director is informed and the respective Account Executive is assigned as an owner of the opportunity and you cooperate with the GTM Team on later activities
-  2. Lead Sourcing = You only want to source the opportunity and let the GTM team handle the opportunity progression
-2. Opportunity Rejected - The deal is rejected and you are informed by the partner manager about the next steps
+    1. __Co-selling__  = You would like to execute a lot of the opportunity progression activities like Proof of Concept and building use cases after the Make partner manager accepts the deal and converts it into an opportunity. The Regional Sales Director is informed and the respective Account Executive is assigned as an owner of the opportunity and you cooperate with the GTM Team on later activities
+    2. __Lead Sourcing__ = You only want to source the opportunity and let the GTM team handle the opportunity progression
+       
+2. __Opportunity Rejected__ - The deal is rejected and you are informed by the partner manager about the next steps
 
 
 Important Steps
