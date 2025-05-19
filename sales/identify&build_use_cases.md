@@ -208,3 +208,11 @@ __Here are some final tips on how to build a business case for Enterprise Custom
    5. Understand the buying process
    6. Legal and IT review process is understood and running during the PoC
    7. Final decision-making meeting scheduled during Po
+
+
+
+
+<div align="center">
+
+# [<-- BACK](make_use_cases.md) --- [NEXT -->](targeting&buyer_personas.md)
+</div>
