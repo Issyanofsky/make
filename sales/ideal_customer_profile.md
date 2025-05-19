@@ -67,3 +67,8 @@ To support the strategy mentioned above of targeting __Digital-native companies_
 
 
 
+
+<div align="center">
+
+# [<-- BACK](make_target_market.md) --- [NEXT -->](decision_process&Stakeholders.md)
+</div>
