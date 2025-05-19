@@ -47,5 +47,5 @@ The variety of different opportunities is immense. However, there are certain co
 
 <div align="center">
 
-# [<-- BACK](product_offering.md) --- [NEXT -->](enterprise_customers.md)
+# [<-- BACK](product_offering.md) --- [NEXT -->](make_use_cases.md)
 </div>
