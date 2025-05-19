@@ -59,3 +59,6 @@ Evry single business, regurdless of size, industry, length of existence, busines
      - Large Enterprise focus (Mulesoft composer, Boomi, Jitterbit)
 
 ![Comparison to competitors](/pic/comparison_tp_our_key_competititors.gif)
+
+
+[NEXT](product_offering.md)
