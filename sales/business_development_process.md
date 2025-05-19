@@ -120,3 +120,11 @@ __Authority__
 
 
 ![Linkdin search ctagories](/pic/linkdin_search_ctagories.gif)
+
+
+
+
+<div align="center">
+
+# [<-- BACK](decision_process&Stakeholders.md) --- [NEXT -->](sales_process.md)
+</div>
