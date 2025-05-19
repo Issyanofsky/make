@@ -60,5 +60,10 @@ Evry single business, regurdless of size, industry, length of existence, busines
 
 ![Comparison to competitors](/pic/comparison_tp_our_key_competititors.gif)
 
+<div align="center">
 
-[NEXT](product_offering.md)
+# [NEXT](product_offering.md)
+</div>
+
+
+
