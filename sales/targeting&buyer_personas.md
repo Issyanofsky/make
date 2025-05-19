@@ -7,3 +7,11 @@ __These are the milestones of the chapter:__
 3. Who are the key stakeholders and how to identify their authority?
 4. What does a deal decision process look like?
 5. What are the essential steps in targeting and prospecting?
+
+
+
+
+<div align="center">
+
+# [<-- BACK](identify&build_use_cases..md) --- [NEXT -->](make_target_market.md)
+</div>
