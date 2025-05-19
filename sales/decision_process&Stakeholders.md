@@ -69,3 +69,11 @@ __Typical titles__
 You can check the final visual below that outlines the possible decision-making process during an enterprise sales opportunity
 
 ![Most Common Decision Process & Stakeholders](/pic/most_common_decision_process&stakeholders.gif)
+
+
+
+
+<div align="center">
+
+# [<-- BACK](ideal_customer_profile.md) --- [NEXT -->](business_development_process.md)
+</div>
