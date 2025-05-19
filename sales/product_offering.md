@@ -67,6 +67,6 @@ The Enterprise plan compiles with high-security standards and provides the optio
 
 <div align="center">
 
-# [<-- BACK](product_offering.md) --- [NEXT -->](enterprise_customers.md)
+# [<-- BACK](make_offering.md) --- [NEXT -->](enterprise_customers.md)
 </div>
 
