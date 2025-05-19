@@ -64,3 +64,9 @@ Before going into more detail on how to identify and build use cases, we are goi
 
 ![Large European Brewery](/pic/large_european_brewery.gif)
 
+
+
+<div align="center">
+
+# [<-- BACK](enterprise_customers.md) --- [NEXT -->](identify&build_use_cases.md)
+</div>
