@@ -59,3 +59,11 @@ __Two main company size categories for Make are:__
 
 
 
+
+<div align="center">
+
+# [<-- BACK](targeting&buyer_personas.md) --- [NEXT -->](ideal_customer_profile.md)
+</div>
+
+
+
