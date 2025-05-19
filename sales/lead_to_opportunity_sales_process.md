@@ -202,3 +202,12 @@ __Requirements__
  2. The customer is committed to investing the required time
  3. The mutual close plan is established. Do not give away trial instances for free. Make sure that the customer is committed and you mutually agreed on a success plan with all the stakeholders
 
+
+
+
+
+
+<div align="center">
+
+# [<-- BACK](sales_process.md) --- [NEXT -->](deal_closing&contractual_requirements.md)
+</div>
