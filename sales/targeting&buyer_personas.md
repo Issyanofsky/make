@@ -13,5 +13,5 @@ __These are the milestones of the chapter:__
 
 <div align="center">
 
-# [<-- BACK](identify&build_use_cases..md) --- [NEXT -->](make_target_market.md)
+# [<-- BACK](identify&build_use_cases.md) --- [NEXT -->](make_target_market.md)
 </div>
