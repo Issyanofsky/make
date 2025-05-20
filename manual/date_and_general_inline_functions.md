@@ -12,3 +12,10 @@
    3. How to transform seconds into hours and minutes.
       
 4. General functions such as if(...), ifempty(...), switch(...) allow you to build conditional logic within your mapping. 
+
+
+
+<div align="center">
+
+# [<-- BACK](math_and_string_functions.md) --- [NEXT -->](date_and_general_inline_functions.md)
+</div>
