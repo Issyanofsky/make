@@ -12,6 +12,8 @@
    1. [Intro](basic.md)
    2. [Basic's](basics.md)
       * [Data mapping](data_mapping.md)
+      * Inline Functions
+         * [Math and String functions](math_and_string_functions.md)
 
 
 
