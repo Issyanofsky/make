@@ -8,7 +8,7 @@
 
 # Legend:
 
-   * [Service](manual/basic.md)
-   * [Sales](sales/README.md)
+   * [Basic's](basic.md)
+
 
 
