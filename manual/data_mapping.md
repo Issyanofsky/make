@@ -26,5 +26,5 @@ example (this will "Pull" from the list the number 2):
 
 <div align="center">
 
-# [<-- BACK](definition_and_terminology.md) --- [NEXT -->](math_and_string_functions.md)
+# [<-- BACK](definitions_and_terminology.md) --- [NEXT -->](math_and_string_functions.md)
 </div>
