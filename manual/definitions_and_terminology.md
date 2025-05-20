@@ -44,7 +44,7 @@ handle data recived from a module
 
 __items__ the data being recived from the module. like a set of key values.
 
-__General Functions__  condition logic (i.e "if","switch" etc.)
+__General Functions__  condition logic (i.e "if", "switch" etc.)
 
   * __Math__ math functions.
 
