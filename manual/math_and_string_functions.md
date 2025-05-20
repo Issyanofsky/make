@@ -36,3 +36,10 @@ __Keywords:__
  * __emptystring__ - text value that is nothing. insert an empty string into the variable.
  * __newline__ - add new line.
  * __carriagerturn__ - enter new line.
+
+
+
+<div align="center">
+
+# [<-- BACK](data_mapping.md) --- [NEXT -->](date_and_general_inline_functions.md)
+</div>
