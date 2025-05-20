@@ -73,5 +73,5 @@ in each data function there are sets operations:
 
 <div align="center">
 
-# [<-- BACK](data_mapping.md) --- [NEXT -->](data_mapping.md)
+# [<-- BACK](basic.md) --- [NEXT -->](data_mapping.md)
 </div>
