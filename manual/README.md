@@ -8,7 +8,9 @@
 
 # Legend:
 
-   * [Basic's](basic.md)
+
+   * [Intro](basic.md)
+   * [Basic's](basics.md)
 
 
 
