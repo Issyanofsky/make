@@ -19,7 +19,7 @@ In an array type of variable by default the setting will take the first in the l
 
 example:
 
-     ![Accessing another item in the List of Arrays](pic/array_list.gif)
+   ![Accessing another item in the List of Arrays](pic/array_list.gif)
      
-     {{1.attachments[2].contentType}} 
+   {{1.attachments[2].contentType}} 
      
