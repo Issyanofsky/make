@@ -20,7 +20,11 @@
 
 the structure of the Data being "pulled".
 
+![Data Structure](pic/data_structure.gif)
+
 ## Processing
+
+![Processing](pic/processing.gif)
 
 __Run__ running the all scenario. (i.e if its runs once na hour the all process)
 
@@ -35,6 +39,8 @@ __operations__ usualy, the number of times the modules runs (usualy actions ther
 ## Data Mapping
 
 handle data recived from a module
+
+![Data Mapping](pic/data_mapping.gif)
 
 __items__ the data being recived from the module. like a set of key values.
 
@@ -52,6 +58,8 @@ __variables__ use varibales we have defined.
 
 
 in each data function there are sets operations:
+
+![Data Mapping](pic/data_mapping_constants.gif)
 
 __variables__ - fix variable that retrevie from the module (i.e "now" in date will add the time and date).
 __Functions__ operatin functions to execute (i.e "if" , "get", "pick" etc)
