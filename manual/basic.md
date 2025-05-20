@@ -27,3 +27,9 @@
 | __Best for:__     |                                                                              |                                                             |
 |                   |  * scheduled (i.e once per day)                                              |  * Time sensitive (need to be instant)                      |
 |                   |  * Extremely high volume (100+ per day), where there is no time sensitivity  |  * General                                                  |
+
+
+<div align="center">
+
+# [NEXT -->](defenitions_and_terminology.md)
+</div>
