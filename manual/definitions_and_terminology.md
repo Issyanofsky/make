@@ -68,3 +68,10 @@ in each data function there are sets operations:
   * __Operators__ operators to be used (i.e "=","!=", "or" and "and")
 
   * __Keywords__ set a key words to be used as constant (i.e "null", "true", "space", "tab", "newLine")
+
+
+
+<div align="center">
+
+# [<-- BACK](data_mapping.md) --- [NEXT -->](data_mapping.md)
+</div>
