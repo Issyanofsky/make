@@ -26,5 +26,13 @@ __Under text:__
   * __"stripHTML"__ - strip the HTML format and return just the content.
   * __"contains"__ - varifies if the array contain value (ex. conains( is there a 1 or 2 in here? ; 2) - if there is 2 it return true).
   * __"split"__ - devide text base of some seperator (ex. split (issy yanofsky; space) - will seperate issy from yanofsky in to 2 variables) - it will put it in an array. to avoid this you can use the "get" function and it will pull it into a variable (not a lit array).
-    
-  * 
+       ![get function on a split](pic/math_functions_get.gif)
+
+__Keywords:__
+
+ * __space__ - insted of typing just a space on the kyboard you can insert a "space" keyword that will be much solid.
+ * __nbsb__ - non breaking space.
+ * __tab__ - insert a <tab>.
+ * __emptystring__ - text value that is nothing. insert an empty string into the variable.
+ * __newline__ - add new line.
+ * __carriagerturn__ - enter new line.
