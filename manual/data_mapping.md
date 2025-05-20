@@ -23,3 +23,8 @@ example (this will "Pull" from the list the number 2):
      
    {{1.attachments[2].contentType}} 
      
+
+<div align="center">
+
+# [<-- BACK](deinition_and_terminology.md) --- [NEXT -->](math_and_string_functions.md)
+</div>
