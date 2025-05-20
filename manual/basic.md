@@ -31,5 +31,5 @@
 
 <div align="center">
 
-# [NEXT -->](defenitions_and_terminology.md)
+# [NEXT -->](definitions_and_terminology.md)
 </div>
