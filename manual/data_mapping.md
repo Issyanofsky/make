@@ -17,7 +17,7 @@ tip:
 
 In an array type of variable by default the setting will take the first in the list. by adding a number between the  array and the variable you can reffer to a nother list in the array.
 
-example:
+example (this will "Pull" from the list the number 2):
 
    ![Accessing another item in the List of Arrays](pic/array_list.gif)
      
