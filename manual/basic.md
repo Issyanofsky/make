@@ -5,7 +5,13 @@
 </div>
 
 <div align="center">
+## Module Categoires
 
+<div align="center">
+  
+![Module Categories](pic/the_4_module_catageries.gif)
+
+</div>
 
 ## Trigger Types
 </div>
