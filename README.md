@@ -7,4 +7,5 @@
 
    * [Service](service/README.md)
    * [Sales](sales/README.md)
+   * [Make Manual](manual/README.md)
 
