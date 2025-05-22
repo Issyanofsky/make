@@ -14,6 +14,33 @@
 5. The Auto-align button can help you quickly organize your complex scenarios.
 
 
+## Router
+
+allow automation to branch in different direction.
+
+
+   * Routers can have as many connection as you want.
+   * Router will execut all the automation in the order the connection where set ( you can see the order presented on the connection ( if you cant see- press right mouse on the white board and click "show router order" (also if you press the "auto-align" button it will arrange the router connections in the executing order).
+   *  In order to change the connection order you  can by disconnecting them and reconecting in the order you wish (or right click on the router, chose Order routes and change the order in the dpop display pane).
+   *  __fallback__ a default rout connect to the router that will only execute if other connection wont executed (set it by seting "yes" in the connection screen).
+   * The router module as __NO Operation Cost__.
+
+__* Tip__
+
+to combine branches operation we can use variable tool t pass variables between branches
+## Filter
+
+deside if the automation continue in any perticuler branch.
+
+__note__ 
+   * in the condition you must chose from one that apropied to the type of the variable (ex. if you get a text variable. chose from the condition under text operations).
+   * if you break a branch the filter stay with the modle that is after the filter (if you delete the module after. thefilter will pass to the next module in the branch).
+
+__condition logic__
+
+combinding router with filter allow to to create a condition logic (if a condition occured only one branch will be deployed. ex. router for 2 branch wher a filter set to one branch "if exist" and the other for "not exist")
+
+     
 <div align="center">
 
 # [<-- BACK](date_and_general_inline_functions.md) --- [NEXT -->]()
