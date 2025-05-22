@@ -55,6 +55,6 @@ combinding router with filter allow to to create a condition logic (if a conditi
      
 <div align="center">
 
-# [<-- BACK](date_and_general_inline_functions.md) --- [NEXT -->]()
+# [<-- BACK](date_and_general_inline_functions.md) --- [NEXT -->](troubleshooting.md)
 </div>
 
