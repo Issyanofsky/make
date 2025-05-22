@@ -27,7 +27,63 @@ __under Date Functions:__
    * __parseDate__ - will take a date and try to understand it (ex. parseDate(date; format; [timezone] (optional)) - will try to convert a variable into a date in the format set).
    * __formatDate__ - format the date in a specific format you wish (ex. formatDate(parseDate(2022 15---2; YYY DD---M); Do MMM YY -  will return 15th Feb 22).
 
+
+__example__
+
+   retrevie the time between timestemp and the email date (in unix format ("X"))
+
+         {{timestamp}}-{{formatDate(1.date; "X")}}
+
+         this will return the value in dayes
+         
+         ({{timestamp}}-{{formatDate(1.date; "X")}} / 60 / 60 / 24 - this mite reurn NOT a round number (ie. 24.96 days))
+
+         round the date
+
+         round(({{timestamp}}-{{formatDate(1.date; "X")}} / 60 / 60 / 24 - this mite reurn NOT a round number (ie. 24.96 days)))
+
+## Conditinal Logic
+
+__if__
+
+generate True or False
+
+      if( expression; value; value)
+
+   ex.
+
+      if ( 1 = 1 ; if true-do this ;  if false do this)
+
+__ifempty__
+
+      ifempty( value1; value2)
+
+      Reurn Value1 if its not empty. if it is it return value2.
+
+      ifempty("", B) - will return B
+
+__switch__
+
+      switch(expression; value1; result1; [value2; result2;....] [else})
+
+      Evaluates one value (called expression) against a list of values, and return the result coresponding to the first match value.
+
+      switch(B; A; 1; B; 2; C; 4) - will return 2
+
+      * if you put a extra value at the end (as else) it will return this value if it doesnt find one suited in the list of values in the function.
+      
 <div align="center">
+
+## Variables
+
+when we reuse a value that mite change over time.
+ (3 tyoes of VARIABLES - SCENARIO, TEAM, and ORGANIZATION - changing the variables done in the web interface)
+ 
+   __example:__
+
+      * __businessname__ 
+      * __admincontact__
+      * __businessurl__
 
 # [<-- BACK](math_and_string_functions.md) --- [NEXT -->](date_and_general_inline_functions.md)
 </div>
