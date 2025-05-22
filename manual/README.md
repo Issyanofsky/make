@@ -16,6 +16,8 @@
       * Inline Functions
          * [Math and String functions](math_and_string_functions.md)
          * [Date and General Inline Functions](date_and_general_inline_functions.md)
+         * [Routers and Filters](routers_and_filters.md)
+         * [Troubleshooting](troubleshooting.md)
 
 
 
