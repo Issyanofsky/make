@@ -10,7 +10,7 @@
 
 
    1. [Intro](basic.md)
-   2. [Basic's](basics.md)
+   2. [Basic's (Level 2](basics.md)
       * [Definitions and Terminology](definitions_and_terminology.md)
       * [Data mapping](data_mapping.md)
       * Inline Functions
@@ -21,6 +21,8 @@
          * [Plans and operations](plans_and_operations.md)
          * [Aggregators](aggregators.md)
          * [AI Assistant](aiassistant.md)
-
+           
+   3. [Intermediate (Level 3](l3intermediate.md)
+      * [Definitions and Terminology](definitions_and_terminology.md)
 
 
