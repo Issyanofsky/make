@@ -18,15 +18,21 @@
 
 triggers are wher a scenario begain. there are two tirgers, watching and polling:
 
-__Scheduled (polling) Trigger__
+__Scheduled (polling) Trigger:__
 
 ![Polling](pic/pullingoperation.gif)
 
-__Instant (Webhook)__
+__Instant (Webhook):__
 
 ![Webhook](pic/watchoperation.gif)
 
 <div align="center">
+
+## Data Transfer Allowance
+
+data being used doring the scenario. the size of the package that being transfare for in each module in the senario (only if it operate).
+
+![Data Transfer Count](pic/data_transfer.gif)
 
 # [<-- BACK](troubleshooting.md) --- [NEXT -->]()
 </div>
