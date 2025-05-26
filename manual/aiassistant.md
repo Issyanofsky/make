@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI Assistant 
+# Make AI Assistant 
 </div>
 
 
@@ -20,7 +20,7 @@
 4. Provide feedback to the Assistant to help us make it better.
 5. Keep in mind the AI capabilities always evolve - it is possible that by the time you watch this video, there will be more predefined use cases available (the video was recorded in January 2025)
 
-![link the module to the Aggregator](pic/aggragatorstep3.gif)
+![Make AI Assistant](pic/aiassistant.gif)
 
 
 
