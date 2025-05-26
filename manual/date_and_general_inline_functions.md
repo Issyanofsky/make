@@ -72,7 +72,7 @@ __switch__
 
       * if you put a extra value at the end (as else) it will return this value if it doesnt find one suited in the list of values in the function.
       
-<div align="center">
+
 
 ## Variables
 
@@ -85,5 +85,7 @@ when we reuse a value that mite change over time.
    * __admincontact__
    * __businessurl__
 
+
+<div align="center">
 # [<-- BACK](math_and_string_functions.md) --- [NEXT -->](routers_and_filters.md)
 </div>
