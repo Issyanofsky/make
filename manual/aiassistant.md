@@ -3,6 +3,8 @@
 # Make AI Assistant 
 </div>
 
+![Make AI Assistant](pic/aiassistant.gif)
+
 
 1. The AI Assistant can be found in two different places:
    1. Directly on the scenario canvas in the bottom right corner - typically, you will use this to get help with your __overall scenario design:__
@@ -22,7 +24,7 @@
 4. Provide feedback to the Assistant to help us make it better.
 5. Keep in mind the AI capabilities always evolve - it is possible that by the time you watch this video, there will be more predefined use cases available (the video was recorded in January 2025)
 
-![Make AI Assistant](pic/aiassistant.gif)
+
 
 
 ## Things to note
