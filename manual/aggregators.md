@@ -13,7 +13,18 @@
 7. Aggregators allow you to create one output bundle from multiple input bundles but it may not always be the case. If you use the "GROUP BY" option, it's still possible the aggregator will produce more than one output bundle.
 8. Target structure type - structure into which the output data will be aggregated.
 
-![Data Transfer Count](pic/data_transfer.gif)
+![Aggregators](pic/aggregators.gif)
+
+__The 3 main Aggregatots:__
+
+  * __Array Aggregator__
+
+![Array Aggregator](pic/arryaggragator.gif)
+    
+  * __Text aggregator__
+  * __Numeric aggragator__
+
+![Aggregators](pic/otheraggragators.gif)
 
 # [<-- BACK](plans_and_operations.md) --- [NEXT -->](.md)
 </div>
