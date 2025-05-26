@@ -48,7 +48,9 @@ __note__
 
 __Condition logic__
 
-![Condition logic](pic/conditional logic.gif)
+![Condition logic](pic/conditional_logic.gif)
+
+
 
 combinding router with filter allow to to create a condition logic (if a condition occured only one branch will be deployed. ex. router for 2 branch wher a filter set to one branch "if exist" and the other for "not exist")
 
