@@ -18,7 +18,7 @@
 __Under text:__
 
   * __"trim"__ - remove the spaces in a string.
-  * __length"__ - count the number of charecters in a string.
+  * __"length"__ - count the number of charecters in a string.
   * __"replace"__ - replace text with some other text.
   * __"substring"__ - grabing some text from a larger text.
   * __"indexOf"__ - find a charecter in a text string.
