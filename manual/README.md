@@ -23,6 +23,7 @@
          * [AI Assistant](aiassistant.md)
            
    3. [Intermediate (Level 3)](l3intermediate.md)
-      * [Definitions and Terminology](definitions_and_terminology.md)
+      * Arrays
+        *[Array Basics](l3arraybasics.md)
 
 
