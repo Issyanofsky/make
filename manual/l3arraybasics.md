@@ -5,7 +5,8 @@
 
 
 
-</div>
+<div align="center">
+
 
 # [<-- BACK](aiassistant.md) --- [NEXT -->](.md)
 </div>
