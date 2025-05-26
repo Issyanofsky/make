@@ -14,6 +14,8 @@
       6. Other random questions you may have about your scenario
          
    2. Within mapping panel when you are editing module fields - typically, you will use this to generate a formula or a piece of text to help you with module __configuration.__
+
+![AI Assistant](pic/aiassistantmodule.gif)
      
 2. Be specific when providing instructions.
 3. Always check and test the outcomes produced - be ready to fix or add missing pieces.
@@ -23,7 +25,33 @@
 ![Make AI Assistant](pic/aiassistant.gif)
 
 
+## Things to note
 
+__Indeep to the tabs:__
+
+the tabs have indeep to them.
+
+![Indeep](pic/aiassistantindeeptoscenario.gif)
+
+__revert Button__
+
+Reverting the changes done by the AI Assistant
+
+__filters__ 
+
+you can filters to pull less data
+
+__Create Json__ 
+
+help creating Json data file.
+
+__Documenting scenarion (Describe the scenario)__
+
+a good start to create a __Documentation__ of a scenario. can give the basic frame work.
+
+
+
+</div>
 
 # [<-- BACK](aggregators.md) --- [NEXT -->](.md)
 </div>
