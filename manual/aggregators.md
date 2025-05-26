@@ -18,11 +18,14 @@
 __The 3 main Aggregatots:__
 
   * __Array Aggregator__
-
+    The Array Aggregator merges several bundles into one single bundle as items in an array.
+    
 ![Array Aggregator](pic/arryaggragator.gif)
     
   * __Text aggregator__
-  * __Numeric aggragator__
+    
+  * __Numeric aggragator:__
+    The Numeric Aggregator takes numeric values, performs an aggregation function (SUM, AVG, COUNT, MAX, MIN), and returns the result in one bundle.
 
 ![Aggregators](pic/otheraggragators.gif)
 
