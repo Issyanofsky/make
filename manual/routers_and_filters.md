@@ -44,7 +44,7 @@ deside if the automation continue in any perticuler branch.
 
 __note__ 
    * in the condition you must chose from one that apropied to the type of the variable (ex. if you get a text variable. chose from the condition under text operations).
-   * if you break a branch the filter stay with the modle that is after the filter (if you delete the module after. thefilter will pass to the next module in the branch).
+   * if you break a branch the filter stay with the modle that is after the filter (if you delete the module after. the filter will pass to the next module in the branch).
 
 __Condition logic__
 
