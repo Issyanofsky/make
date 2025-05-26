@@ -31,5 +31,26 @@ __The 3 main Aggregatots:__
 
 ![Numeric aggragator](pic/numericaggregator.gif)
 
+
+
+## Other Aggragators 
+
+There are other lesser-known apps that also allow you to run aggregations (CSV, JSON, Archive).
+
+  * __CSV__
+ 
+    allow to create or pass csv.
+
+![CSV](pic/csvaggragator.gif)
+    
+
+  * __JSON__
+ 
+    pass boundels into one json file
+   
+
+![JSON](pic/jsonaggrigator.gif)
+
+
 # [<-- BACK](plans_and_operations.md) --- [NEXT -->](.md)
 </div>
