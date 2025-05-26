@@ -19,4 +19,4 @@ __Topics:__
 __Legend:__
 
   * __Arrays__
-    * Array Basic
+    * [Array Basic](l3arraybasics.md)
