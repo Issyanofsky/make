@@ -20,6 +20,7 @@
          * [Troubleshooting](troubleshooting.md)
          * [Plans and operations](plans_and_operations.md)
          * [Aggregators](aggregators.md)
+         * [AI Assistant](aiassistant.md)
 
 
 
