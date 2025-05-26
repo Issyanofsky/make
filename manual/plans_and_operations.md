@@ -16,7 +16,7 @@
 
 ## Triggers and operation
 
-triggers are wher a scenario begain. there are two tirgers, watching and polling:
+triggers are where a scenario begain. there are two tirgers, watching and polling:
 
 __Scheduled (polling) Trigger:__
 
