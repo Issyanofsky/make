@@ -1,1 +1,18 @@
 
+<div align="center">
+
+#  Intermediate
+</div>
+
+__Topics:__
+
+1. Iterators
+2. Array manipulations
+3. Built-in apps
+4. Webhooks
+5. Error handling
+6. Management of connections
+7. Introduction to APIs and HTTP app
+8. Planning and best practices
+9. Getting help
+
