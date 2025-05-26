@@ -63,5 +63,33 @@ In any aggrigator (in his settings) there is a groupBy field. where we can chose
 
 ![Grupping (GroupBy)](pic/aggregatorgrupby.gif)
 
+
+### Data structure (in aggregators)
+
+In the module (aggragators) we have a "Target structure Type" field (by default it set to Custom).
+
+auto-structure can ve set sometimes (if the module allow). in this case the array will arrange the data in the structure needed by the pulling moudle.
+
+![data structure](pic/aggregatorsdatastructure.gif)
+
+in order to do that:
+
+         1. first create the aggegator 
+
+![Create the aggragation first](pic/aggragatorstep1.gif)
+
+
+         2. create the module till the point of polling the data and link it in his setting to the array
+
+![link the module to the Aggregator](pic/aggragatorstep2.gif)
+
+
+         3. go back to the Aggregator and set it "Target structure Type" to the moudle to set the correct data structure
+         
+![link the module to the Aggregator](pic/aggragatorstep3.gif)
+
+__note__ not every moudle where you add multiple Items has this option. if it has a mapping switch in his sttings it probebly has.
+
+
 # [<-- BACK](plans_and_operations.md) --- [NEXT -->](.md)
 </div>
