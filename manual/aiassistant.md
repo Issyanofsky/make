@@ -13,7 +13,7 @@
       5. Generating HTTP from cURL
       6. Other random questions you may have about your scenario
          
-   2. Within mapping panel when you are editing module fields - typically, you will use this to generate a formula or a piece of text to help you with module __configuration.__
+   2. Within mapping panel when you are editing module fields - typically, you will use this to generate a formula or a piece of text to help you with module __configuration__ (good way is for asking it to create a formula).
 
 ![AI Assistant](pic/aiassistantmodule.gif)
      
