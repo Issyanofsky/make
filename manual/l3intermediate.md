@@ -16,3 +16,7 @@ __Topics:__
 8. Planning and best practices
 9. Getting help
 
+__Legend:__
+
+  * __Arrays__
+    * Array Basic
