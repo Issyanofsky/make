@@ -14,7 +14,18 @@
 
 * __Pro tip:__ You can export scenario blueprints on all Make plans and send them e.g. via email to your coworkers.
 
-     
+## Triggers and operation
+
+triggers are wher a scenario begain. there are two tirgers, watching and polling:
+
+__Scheduled (polling) Trigger__
+
+![Polling](pic/pullingoperation.gif)
+
+__Instant (Webhook)__
+
+![Webhook](pic/watchoperation.gif)
+
 <div align="center">
 
 # [<-- BACK](troubleshooting.md) --- [NEXT -->]()
