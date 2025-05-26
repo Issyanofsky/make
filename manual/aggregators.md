@@ -91,5 +91,5 @@ in order to do that:
 __note__ not every moudle where you add multiple Items has this option. if it has a mapping switch in his sttings it probebly has.
 
 
-# [<-- BACK](plans_and_operations.md) --- [NEXT -->](.md)
+# [<-- BACK](plans_and_operations.md) --- [NEXT -->](aiassistant.md)
 </div>
