@@ -18,6 +18,7 @@
          * [Date and General Inline Functions](date_and_general_inline_functions.md)
          * [Routers and Filters](routers_and_filters.md)
          * [Troubleshooting](troubleshooting.md)
+         * [Plans and operations](plans_and_operations.md)
 
 
 
