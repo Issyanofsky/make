@@ -22,7 +22,7 @@
          * [Aggregators](aggregators.md)
          * [AI Assistant](aiassistant.md)
            
-   3. [Intermediate (Level 3](l3intermediate.md)
+   3. [Intermediate (Level 3)](l3intermediate.md)
       * [Definitions and Terminology](definitions_and_terminology.md)
 
 
