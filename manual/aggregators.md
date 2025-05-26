@@ -23,11 +23,13 @@ __The 3 main Aggregatots:__
 ![Array Aggregator](pic/arryaggragator.gif)
     
   * __Text aggregator__
+
+![Text aggregator](pic/textaggregator.gif)
     
   * __Numeric aggragator:__
     The Numeric Aggregator takes numeric values, performs an aggregation function (SUM, AVG, COUNT, MAX, MIN), and returns the result in one bundle.
 
-![Aggregators](pic/otheraggragators.gif)
+![Numeric aggragator](pic/numericaggregator.gif)
 
 # [<-- BACK](plans_and_operations.md) --- [NEXT -->](.md)
 </div>
