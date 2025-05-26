@@ -35,7 +35,7 @@ __The 3 main Aggregatots:__
 
 ## Other Aggragators 
 
-There are other lesser-known apps that also allow you to run aggregations (CSV, JSON, Archive).
+There are other lesser-known apps that also allow you to run aggregations (CSV, JSON, Archive). here some examples;
 
   * __CSV__
  
@@ -51,6 +51,17 @@ There are other lesser-known apps that also allow you to run aggregations (CSV, 
 
 ![JSON](pic/jsonaggrigator.gif)
 
+## Source module
+
+The module from which the bundle aggregation will start.
+
+![Source module](pic/aggragationbundle.gif)
+
+### Grupping (GroupBy)
+
+In any aggrigator (in his settings) there is a groupBy field. where we can chose from our income values. it will group the list into bundles by the value we set (in the groupBy field).
+
+![Grupping (GroupBy)](pic/aggregatorgrupby.gif)
 
 # [<-- BACK](plans_and_operations.md) --- [NEXT -->](.md)
 </div>
