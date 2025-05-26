@@ -11,10 +11,8 @@
    
 
 
-![Filter](pic/filter.gif)
-
      
 <div align="center">
 
-# [<-- BACK](routes_and_filters.md) --- [NEXT -->]()
+# [<-- BACK](routes_and_filters.md) --- [NEXT -->](plans_and_operations.md)
 </div>
