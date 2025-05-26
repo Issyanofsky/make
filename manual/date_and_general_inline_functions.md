@@ -81,9 +81,9 @@ when we reuse a value that mite change over time.
  
    __example:__
 
-      * __businessname__ 
-      * __admincontact__
-      * __businessurl__
+   * __businessname__
+   * __admincontact__
+   * __businessurl__
 
 # [<-- BACK](math_and_string_functions.md) --- [NEXT -->](routers_and_filters.md)
 </div>
