@@ -24,6 +24,6 @@
            
    3. [Intermediate (Level 3)](l3intermediate.md)
       * Arrays
-        *[Array Basics](l3arraybasics.md)
+        * [Array Basics](l3arraybasics.md)
 
 
