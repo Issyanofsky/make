@@ -69,6 +69,6 @@ another way of using __get__ is for extracting a value from an array (if you nee
 
 <div align="center">
   
-# [<-- BACK](aiassistant.md) --- [NEXT -->](.md)
+# [<-- BACK](aiassistant.md) --- [NEXT -->](l3arrayfunctions.md)
 </div>
 
