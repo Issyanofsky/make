@@ -13,6 +13,12 @@ __Things to remember:__
 6. split(...) function lets you create arrays from text strings.
 7. join(...) function lets you create a simple text string from a primitive array.
 
+
+## Array
+
+An array is a list of items.
+
+
 <div align="center">
 
 
