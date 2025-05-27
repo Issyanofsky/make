@@ -59,7 +59,7 @@ another way of using __get__ is for extracting a value from an array (if you nee
 
 ![GET](pic/l3arraygetex2.gif)
 
-      In order to extract it as a __Text__  type:
+      In order to extract it as a Text type:
       
 ![GET](pic/l3arraygetex3.gif)
 
