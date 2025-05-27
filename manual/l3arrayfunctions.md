@@ -38,5 +38,5 @@ __Things to remember:__
 
 <div align="center">
   
-# [<-- BACK](aiassistant.md) --- [NEXT -->](l3arrayfunctions.md)
+# [<-- BACK](l3arraybasics.md) --- [NEXT -->](l3arrayiterator.md)
 </div>
