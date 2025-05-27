@@ -29,76 +29,76 @@ __Things to remember:__
 
 
 
-__join__
+## join
 
 lets you create a simple text string from a primitive array.
 
 ![join](pic/l3arrayfunctionjoin.gif)
 
 
-__length__
+## length
 
 gives you the number of items in an array.
 
 ![length](pic/l3arrayfunctionlength.gif)
 
-__keys__
+## keys
 
 return an array of keys, more applicable with collections.
 
-![keys](pic/![GET](pic/l3arrayfunctionkeys.gif)
+![keys](pic/l3arrayfunctionkeys.gif)
 
-__slice__
+## slice
 
 allows you to create a new array with selected items.
 
 ![slice](pic/l3arrayfunctionslice.gif)
 
-__merge__
+## merge
 
  merges two or more arrays into one.
 
 ![merge](pic/l3arrayfunctionmerge.gif)
 
-__contains__
+## contains
 
 verifies if an array contains the value, the output is true or false.
 
 ![contains](pic/l3arrayfunctioncontains.gif)
 
 
-__remove__
+## remove
 
 removes an item from an array.
 
 ![remove](pic/l3arrayfunctionremove.gif)
 
-__add__
+## add
 
 adds an item to an array.
 
 ![add](pic/l3arrayfunctionadd.gif)
 
 
-__map__
+## map
 
 allows filtering values in a complex array.
 
 ![map](pic/l3arrayfunctionmap.gif)
 
-__shuffle__
+## shuffle
 
 reorders items randomly in an array.
 
 ![shuffle](pic/l3arrayfunctionshuffle.gif)
 
-__sort__
+## sort
 
 sorts items of an array.
 
 ![sort](pic/l3arrayfunctionsort.gif)
 
-__firts and last__
+## firts and last
 
 give you the first and the last item of an array, respectively.
 
@@ -109,50 +109,50 @@ __* Note__
 
 first and last are good for pulling a value from an array to text type (llike __get__).
 
-__reverse__
+## reverse
 
 give you the first and the last item of an array, respectively.
 
 ![reverse](pic/l3arrayfunctionreverse.gif)
 
 
-__flatten__
+## flatten
 
 takes nested array items and puts them all into one.
 
 ![flatten](pic/l3arrayfunctionflatten.gif)
 
-__distinct__
+## distinct
 
 removes duplicates inside of a complex array based on the provided key.
 
 ![distinct](pic/l3arrayfunctiondistinct.gif)
 
-__deduplicate__
+## deduplicate
 
 removes duplicates from a simple array (only on simple arrays).
 
 ![deduplicate](pic/l3arrayfunctiondeduplicate.gif)
 
-__toCollection__
+## toCollection
 
 converts an array to a collection (note that each value in the collection has to have a key and a value).
 
 ![toCollection](pic/l3arrayfunctiontocollection.gif)
 
-__toArray__
+## toArray
 
 converts a collection into an array of key-value collections.
 
 ![toArray](pic/l3arrayfunctiontoarrsy.gif)
 
-__omit__
+## omit
 
 removes items with the given keys from a collection.
 
 ![omit](pic/l3arrayfunctionomit.gif)
 
-__pick__
+## pick
 
 picks items with specified keys from a collection.
 
