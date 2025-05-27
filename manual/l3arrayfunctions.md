@@ -33,7 +33,7 @@ __join__
 
 lets you create a simple text string from a primitive array.
 
-![join](pic/l3arraygetex3.gif)
+![join](pic/l3arrayfunctionjoin.gif)
 
 
 __length__
