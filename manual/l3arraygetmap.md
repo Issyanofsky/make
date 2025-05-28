@@ -9,11 +9,15 @@ __Things to remember:__
 * Remember that map(..) function outputs an array of all found matches and therefore you will likely need to use either get(...;1) or first(...) to get just the first matched value from the array. 
 
 
-![pick](pic/l3arrayfunctionpick.gif)
+    Using __ONLY__ map function will result in a Array type
+  
+![map](pic/l3arraygetmapmap.gif)
 
-
+    By adding __get__ you can convert the result to text type (for use in later moduls).
+  
+![get + map](pic/l3arraygetmapgetmap.gif)
 
 <div align="center">
   
-# [<-- BACK](l3arrayfunctions.md) --- [NEXT -->](.md)
+# [<-- BACK](l3arrayfunctions.md) --- [NEXT -->](l3iterator.md)
 </div>
