@@ -26,5 +26,6 @@
       * Arrays
         * [Array Basics](l3arraybasics.md)
         * [Array Functions](l3arrayfunctions.md)
+        * [Get+Map Functions to Perform Data Lookups](l3arraygetmap.md)
 
 
