@@ -162,5 +162,5 @@ picks items with specified keys from a collection.
 
 <div align="center">
   
-# [<-- BACK](l3arraybasics.md) --- [NEXT -->](l3arrayiterator.md)
+# [<-- BACK](l3arraybasics.md) --- [NEXT -->](l3arraygetmap.md)
 </div>
