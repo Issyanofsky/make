@@ -25,4 +25,5 @@ __Legend:__
 
  * [Iterator](l3iterator.md)
  * [Built-in apps](l3built-inapps.md)
+ * [Introduction to error handling](l3introductiontoerrorhandeling.md)
  * 
