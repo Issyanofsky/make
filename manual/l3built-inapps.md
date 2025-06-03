@@ -1,9 +1,8 @@
 <div align="center">
 
-# Iterator
+# Built-in apps
 
 
-![Iterator](pic/l3iterator.gif)
 
 </div>
 
@@ -13,7 +12,13 @@ __Things to remember:__
   2. Built-in apps are native Make functions and utilities, like Tools, Flow Control, Text parser, and many others.
   3. Repeater allows repeating a task a given number of times.
 
+
+
+
+![Iterator](pic/l3iterator.gif)
+
+
 <div align="center">
   
-# [<-- BACK](l3iterator.md) --- [NEXT -->](l3built-inapps.md)
+# [<-- BACK](l3iterator.md) --- [NEXT -->](.md)
 </div>
