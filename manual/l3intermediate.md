@@ -24,3 +24,5 @@ __Legend:__
     * [Get+Map Functions to Perform Data Lookups](l3arraygetmap.md)
 
  * [Iterator](l3iterator.md)
+ * [Built-in apps](l3built-inapps.md)
+ * 
