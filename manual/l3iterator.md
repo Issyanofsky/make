@@ -1,9 +1,11 @@
 <div align="center">
 
 # Iterator
-</div>
+
 
 ![Iterator](pic/l3iterator.gif)
+
+</div>
 
 __Things to remember:__
 
