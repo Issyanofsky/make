@@ -18,7 +18,83 @@ __Things to remember:__
 7. You can check past webhooks payloads (up to 3 days old) by going to Webhooks in the main left-side panel and clicking on the webhook you want to examine.
  
 
-![Ignore](pic/l3introductiontoerrorhandelingignore.gif)
+![Introduction to Webhooks and Mailhooks](pic/l3introductiontowebhooks.gif)
+
+## Webhook
+
+![Webhook](pic/l3introductiontowebhooksaggrement.gif)
+
+its a connection between two platforms. its basicely an aggrement, that is reciving notification every time it happen.
+
+__* NOTE__ each webhook is for only one scenario.
+
+__Registered Webhooks__ are the webhooks modules that __Make__ created.
+
+![Webhook](pic/l3introductiontowebhooksregister.gif)
+
+__Create manualy Webhook__ -  in case there isnt a moudle created or you need some extra options that are not in the Make module. 
+
+The connection to the external webhook can be done (you generate the address or email on the cumsom webhook):
+  * an Address to sent notifications
+  * notifications sent by Email notification 
+
+![Webhook](pic/l3introductiontowebhookscustom.gif)
+
+After the connection was done ther is a need to recive one notification in order to get the data structure (you can see the mark showing the structure was recived).
+
+![Webhook](pic/l3introductiontowebhooksstructuresuccess.gif)
+
+If we ever change what information comming throw (the webhook). we can re-generate the file structure by pressing "Redetermine data structure" and it will retrive the new 
+
+![Redetermine data strucure](pic/l3introductiontowebhooksredetermine.gif)
+
+
+### Manage Webhooks
+
+manageing __Webhooks__ is done under the main platform --> Webhooks. where you can see all webhooks you created.
+
+![Manage Webhooks](pic/l3introductiontowebhookspage.gif)
+
+__LOGS__ - Inside a webhook (details) you ccan find the logs (3 days) of the information of what as come throw the webhook.
+
+![Logs](pic/l3introductiontowebhookslogs.gif)
+
+__Queue__ - Inside a webhook (details) you ccan find the "QUEUE". this is the un-process webhooks (in case the webhook is not running the information comming will be queued)
+
+![QUEUE](pic/l3introductiontowebhooksqueue.gif)
+
+the amount of Queued that can be stored is showned in the webhooks page.
+
+![QUEUE](pic/l3introductiontowebhooksqueueamount.gif)
+
+### schudule webhook connection
+
+By default, webhooks are set to get information the moment it created. if you wish to schudule the retrive intervals you can do it by setting the webhook (what it will do is, the messages will com into the "QUEUE" and will be retrive (in the order they came on the intervals that being set).
+
+![schudule webhook](pic/l3introductiontowebhooksschudule.gif)
+
+### Sequential processing
+
+By default, Webhooks will process scenario in parallel (process the scenario as it recive it). in case you dont want the processes to run in parallel, you want them to precess them in the order they came or one in a time. you can set it;
+
+![Sequential processing](pic/l3introductiontowebhookssequental.gif)
+
+
+### Tip - executing another scenario
+
+By using a HTTP module and a Webhook you can trigger another scenario (by setting the HTTP module to send to the webhook a message when trigger)
+
+![HTTP](pic/l3introductiontowebhookshttp.gif)
+
+## Mailhooks
+
+![Mailhooks](pic/l3introductiontowebhooksmailhooks.gif)
+
+Mailhook is basicaly the same as webhook but insted using http over the net it use email.
+
+it create an email addres for setting in the platform to send the massages to the mailhook and listen to the incoming email.
+
+![Mailhooks](pic/l3introductiontowebhooksemailaddress.gif)
 
 
 
