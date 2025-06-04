@@ -27,3 +27,4 @@ __Legend:__
  * [Built-in apps](l3built-inapps.md)
  * [Introduction to error handling](l3introductiontoerrorhandeling.md)
  * [Introduction to webhooks and mailhooks](l3introductiontowebhooks.md)
+ * [Planning and best practices](l3planningandbestpractices.md)
