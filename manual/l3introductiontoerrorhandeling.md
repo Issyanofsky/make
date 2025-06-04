@@ -28,6 +28,8 @@ Every scenario has it error handling list. under "INCOPMLETE EXECUTIONS" you can
 ## Error handler
 
 a route that will be trigger if an error occured.
+Try to avoid using __Error handlers__ in a scenario. use them where the errors are rutine and happen on the same place (moudle) every time.
+if in a scenario you identify where people enter information (human error or missing/incomplete data) you mite consider using a __Error Handler__.
 
 ![Error handler](pic/l3introductiontoerrorhandelingadderrorhandler.gif)
 
@@ -44,11 +46,37 @@ there are some build error handlers (if you dont use a moudle):
     
  
   * __Break__
-    
+
     ![Break](pic/l3introductiontoerrorhandelingbreak.gif)
     
+    * it allow to have intermidiate between request by an interval given (ex. in case we ask to many data and the api delay our request, that can do an error).
+    * save the scenario in our incomplete execution. never allow an execution to be lost. for future handeling.
+
+__* NOTE__ in order to break to work we need to set the "Allow storing of incomplete Executions" set to __Yes__ (under setting of the scenario)
+
+    
   * __Resume__
+
+it ignore the moudle and continue with the scenarion. you can also enter information that would have been the output of this moudle. 
+
+    Resume can be used in two ways:
+     * as a stand alone
+
+       ![Resume](pic/l3introductiontoerrorhandelingresume.gif)
+       
+     * or, at the end of an __Error handler__ route (it will return to the main moudle and continue the scenario (its the only handler that can do that))
+
+     (in this example the senarion on a error on clickup (moudle 3) will go throw the route of the error handler where it will list the tasks , using filter it will pass only the right task to another click-up module where it pulls the info ths the couse of the error. the Resume will return the corect valuse (by setting it on the resume) and go back to continue the scenario as a success.
+     
+      ![Resume](pic/l3introductiontoerrorhandelingresume1.gif)
+    
   * __Ignore__
+
+![Ignore](pic/l3introductiontoerrorhandelingignore.gif)
+
+    if the moudle who has a __Ignore__ handler. if the module has an error it will ignore the all scenario. it will stop immidiately but it will treat the moudle as successfully run.
+__* NOTE__ because __Ignore__ doesnt finish the scenario (stop at the Ignore moudle) and mark it as successfull. there is no notification or log that somthing went wrong.
+
 
 
 <div align="center">
