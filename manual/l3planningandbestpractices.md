@@ -26,7 +26,7 @@ __* IMPORTANT__ if two or more are working on the scenario. it will save the las
 
 ### Confidential Data
 
-In case you work with confidential data and you dont want it to be saved (on the platform - you wont the logs of the run). you can set it in scenario setting under "Data is confidential";
+In case you work with confidential data and you dont want it to be saved (on the platform - you wont see the logs of the run). you can set it in scenario setting under "Data is confidential";
 
 ![Confidential Data](pic/l3planningandbestconfident.gif)
 
@@ -34,5 +34,5 @@ In case you work with confidential data and you dont want it to be saved (on the
 
 
   
-# [<-- BACK](l3introductiontowebhooks.md) --- [NEXT -->](.md)
+# [<-- BACK](l3introductiontowebhooks.md) --- [NEXT -->](l3managingconnections.md)
 </div>
