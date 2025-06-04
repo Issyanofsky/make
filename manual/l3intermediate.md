@@ -28,3 +28,4 @@ __Legend:__
  * [Introduction to error handling](l3introductiontoerrorhandeling.md)
  * [Introduction to webhooks and mailhooks](l3introductiontowebhooks.md)
  * [Planning and best practices](l3planningandbestpractices.md)
+ * [Managing connections](l3managingconnections.md)
