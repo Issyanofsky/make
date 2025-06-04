@@ -2,9 +2,6 @@
 
 # Introduction to Webhooks and Mailhooks
 
-
-![RepeaIntroduction to error handlingter](pic/l3introductiontoerrorhandeling.gif)
-
 </div>
 
 __Things to remember:__
