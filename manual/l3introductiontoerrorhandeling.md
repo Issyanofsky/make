@@ -1,6 +1,6 @@
 <div align="center">
 
-# Introduction to error handling
+# Introduction to Error Handling
 
 
 ![RepeaIntroduction to error handlingter](pic/l3introductiontoerrorhandeling.gif)
