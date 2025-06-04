@@ -100,5 +100,5 @@ it create an email addres for setting in the platform to send the massages to th
 
 
   
-# [<-- BACK](l3introductiontoerrorhandeling.md) --- [NEXT -->](.md)
+# [<-- BACK](l3introductiontoerrorhandeling.md) --- [NEXT -->](l3planningandbestpractices.md)
 </div>
