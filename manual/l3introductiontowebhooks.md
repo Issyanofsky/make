@@ -2,6 +2,7 @@
 
 # Introduction to Webhooks and Mailhooks
 
+![Introduction to Webhooks and Mailhooks](pic/l3introductiontowebhooks.gif)
 </div>
 
 __Things to remember:__
@@ -15,7 +16,7 @@ __Things to remember:__
 7. You can check past webhooks payloads (up to 3 days old) by going to Webhooks in the main left-side panel and clicking on the webhook you want to examine.
  
 
-![Introduction to Webhooks and Mailhooks](pic/l3introductiontowebhooks.gif)
+
 
 ## Webhook
 
