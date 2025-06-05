@@ -41,8 +41,8 @@ __* Tip__
 
 There two type's of Information in the "__Help Center__";
 
-  1. General information about __Make__.
-  2. Information about specific app's.
+  * General information about __Make__.
+  * Information about specific app's.
 
 3. __Contact Support__ open a ticket at __Make__ (opening button is next to the help on the web page) wher you can submit a question and support will get back to you (try to provide as much information you can, like Run-ID, URL of the scenario, screen shut...etc').
 
