@@ -22,31 +22,31 @@ In this example, we ceating an authomation for getting email and classify them a
 
 ![Example](pic/l3realaiusecaseexample.gif)
 
-__module 1__ - Gmail (Watch Emails)
+### module 1 - Gmail (Watch Emails)
 
 first module in our scenario. setting the module to watch for incoming Emails.
 
 ![Gmail (Watch Emails)](pic/l3realaiusecasegmail.gif)
 
-__module 2__ (optional)
+### module 2 (optional)
 
 for retriving Labels for the AI to classify the Emails.
 
 ![ClickUp (list All Tasks)](pic/l3realaiusecaseclickup.gif)
 
-__module 3__ 
+### module 3
 
 An Array aggregation module for combining the task (rioretize Labels) into a boundle (it create two array's - Task name (Label) and the Gmail Label ID).
 
 ![Array aggregation](pic/l3realaiusecasearray.gif)
 
-__module 4__
+### module 4
 
 Another array that combine the two arrays created in the privious module into one (Task name (Label) and the Gmail Label ID).
 
 ![Array aggregation](pic/l3realaiusecasearray1.gif)
 
-__module 5__ OpenAI (Create a Completion (Prompt))
+### module 5 OpenAI (Create a Completion (Prompt))
 
 We add an OpenAI (Create a Completion (Prompt) as a second module in the scenario where we set the module for specific roles we need (priorities the email and writing a draft response.
 
@@ -62,11 +62,11 @@ under the __Advance__ setting we change the respose format to __JSON Object__ un
 
 __* Note__ there are Advance setting. is good to look over to see if there is something usefull.
 
-__module 6__ Gmail (Modify Email Lables)
+### module 6 Gmail (Modify Email Lables)
 
 ![Gmail (Modify Email Lables)](pic/l3realaiusecasemodifylables.gif)
 
-__module 7__ Gmail (Create a Draft)
+### module 7 Gmail (Create a Draft)
 
 Creating the __Draft__
 
@@ -78,8 +78,9 @@ it will __NEVER__ run (the condition is set to if 1 equal to 2 (which is allways
 
 ![NEVER filter](pic/l3realaiusecaseneverfilter.gif)
 
-__module 8__ Tool (Set multiple variables)
+### module 8 Tool (Set multiple variables)
 
+This is a varification tool. its not must be in the scenario.
 
 ![Tool (Set multiple variables)](pic/l3realaiusecasetool.gif)
 
