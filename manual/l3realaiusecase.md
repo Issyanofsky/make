@@ -13,7 +13,7 @@ __Things to remember:__
 4. Keep in mind that the longer prompts you send to various AI tools (such as OpenAI), the more API credits you are going to pay to process the prompt. The similar applies to outputs of the prompts - the longer the output is, the more costly it's going to be.
 5. In case you are going to build a similar use case, you will need to get Gmail label IDs so you can later map them in the "Labels to add" field in Modify Email Labels module. The most elegant approach is to simply open this module and select a label for which you need the ID and then turn on the mapping as shown below. This will tell you what the ID for each label value is.
 
-
+![Runs](pic/l3realaiusecase.gif)
   
 <div align="center">
   
