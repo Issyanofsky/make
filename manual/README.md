@@ -36,6 +36,7 @@
       * [Managing connections](l3managingconnections.md)
       * [Intro to API and HTTP app](l3intotoapiandhttp.md)
       * [Getting Help](l3gettinghelp.md)
+      * [Real AI Use Case](l3realaiusecase.md)
         
 
 
