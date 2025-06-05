@@ -7,12 +7,16 @@
 
 __Things to remember:__
 
-1. You can test existing connections by clicking the __Verify__ button. For that, you need to navigate to the Connections menu and find the particular connection you need to test.
-2. You can also __reauthorize existing connections, but only those that support reauthorization flows = mostly OAuth 2.0 based connections where you login through your existing app account and approve Make to access the particular app.
-3. Created connections are always bound to the team in which they were created. (Organizations on Free, Core and Pro plans have just 1 team.)
-4. When setting up a scenario, only team members with the "Team Member" or "Team Admin" role can use existing connections within the team.
-5. Some of the connections can be edited - typically, you will want to change your API keys or secrets without having to replace the connection in affected scenarios. This feature is currently being rolled out app by app and therefore some app connections may not be enabled yet but could be in future.
-
+1. When your scenario is executed, Make is making API calls to the endpoints of services (apps) used in the scenario.
+2. The HTTP app allows you to connect to any standard API - even to the apps and services which are not available on Make yet.
+3. When working with external APIs, it's important to understand the authorization mechanisms of the particular APIs. For that, you should consult the app's API documentation.
+4. The API documentation will also tell you whether to put your request parameters (URL query string, body...)
+5. If you want to practice your HTTP module skills, you can try retrieving London time via https://www.timeapi.io/swagger/index.html
+6. When API documentation mentions "query parameters" e.g. to filter down your requested data, they usually need to go to the "Query Strings" section in Make's "Make an API Call" module.
+   1. You could also directly put these parameters behind "?" in your URL - putting parameters into the URL is __equivalent__ to "Query Strings" but it just may be less user-friendly to read the module information.
+   2. However, there might be APIs where filtering is done via "Body". This simply depends on the particular API you are working with and you need to read its documentation properly.
+  
+   
 ![Managing connections](pic/l3managingconnections.gif)
 
 
