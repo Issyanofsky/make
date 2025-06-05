@@ -1,6 +1,6 @@
 <div align="center">
 
-# Intro to API and HTTP app
+# Getting Help
 
 
 </div>
