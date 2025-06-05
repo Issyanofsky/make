@@ -21,25 +21,35 @@ __* Note__  Created connections are always bound to the team in which they were 
 
 ## Connection page
 
-__Connection right__ you can see the connection permissins.
+### Connection right
+
+You can see the connection permissins.
 
 ![Connection right](pic/l3managingconnectionspermmisions.gif)
 
-__Check the connection__ you can check the connection (if you think you got an error) by pressing the "Varify" button.
+### Check the connection
+
+You can check the connection (if you think you got an error) by pressing the "Varify" button.
 
 ![Verify Connection](pic/l3managingconnectionsverify.gif)
 
-__Reauthorize__ if the connection is not working you can press "Reauthorize" and set the connection again (getting connection process).
+### Reauthorize
+
+If the connection is not working you can press "Reauthorize" and set the connection again (getting connection process).
 
 ![Reauthorize](pic/l3managingconnectionsreauthorize.gif)
 
 __* Note__ Not every connection has a Reauthorize option. usuaky is because it autorize in a different way, like API or user name and password.  
 
-__Edit__ csome connection may have "Edit" button. it allw to change to other key types.
+### Edit
+
+Some connection may have "Edit" button. it allw to change to other key types.
 
 ![Edit](pic/l3managingconnectionsedit.gif)
 
-__Delete Connection__ if your trying to clean thing up or we stop using a service or just manage the connection we can delete them on the "Delete" button.
+### Delete Connection
+
+If your trying to clean thing up or we stop using a service or just manage the connection we can delete them on the "Delete" button.
 
 ![Delete](pic/l3managingconnectionsdelete.gif)
 
