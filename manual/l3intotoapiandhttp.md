@@ -37,9 +37,9 @@ The __Make__ user interface create the __JSON__ file needed.
 
 ## Using API
 
-1. If the app we trying to establish API exsist in Make but it can't do what we want.
+### If the app we trying to establish API exsist in Make but it can't do what we want.
 
-   we go to the API web and see if what we need exsist . and see if there is another endpoint that do what we want (on the API web page).  if so we look for the command needed and set it on a module "Make an API Call" where we can set the manualy command (we got from the API web).
+We go to the API web and see if what we need exsist . and see if there is another endpoint that do what we want (on the API web page).  if so we look for the command needed and set it on a module "Make an API Call" where we can set the manualy command (we got from the API web).
    
 ![API endpoint](pic/l3introtoapiendpoint.gif)
 
@@ -49,15 +49,82 @@ The __Make__ user interface create the __JSON__ file needed.
 
 Depends on the API. some queryes parameters would be sent after the URL (after "?") __Or__  query need to be filed in the ""Query String" field in the setting of the module.
 
+On the module you can set the quert Parameters in 3 ways (depends on the need and the API requermrnts);
+1. __Query string__ -  enter a key and a value ( we got from the API web)
+
 ![Query String](pic/l3introtoapistring.gif)
+
+2. __Body__ - using the body section there need of perticulate format we need to follow:
+
+![Body](pic/l3introtoapibody.gif)
+
+__Array__ - in case the parameter we need is an array type, the parameter set;
+
+![Array](pic/l3introtoapiarray.gif)
+
+3. __URL__ - some api need to be query set on the url itself:
+   
+![Url Query](pic/l3introtoapiurl.gif)
+
+__X-WWW-from-urlencoded__
+
+Another format (not __JSON__) that sometimes is used by API's. if this is the case the best practice to set the parameters is by the __Body__ part (not __Query String__).
+
+![X-WWW-from-urlencoded](pic/l3introtoapiwwwform.gif)
+
+The setting is done;
+
+![X-WWW-from-urlencoded](pic/l3introtoapiwwwform.gif)
+
+__On Array Parameters__
+
+![X-WWW-from-urlencoded](pic/l3introtoapiwwwarray.gif)
 
 ### Request type (API Header)
 
 On the  API page you need to see the type of file it needed (sometimes it under Hiden Parameters) - Most API are using __JSON__ format. 
 In case you need to adjust the format.
 
-![Query String](pic/l3introtoapiheader.gif)
+![Query String](pic/l3introtoapiwwwformformat.gif)
 
+Example for __API Call__ setting.
+
+![Example](pic/l3introtoapiexample.gif)
+
+### If the API is not already in Make (there is no mudles for that API)
+
+We use the __HTTP__ moudle that allows us to make some api request to any app in the internet that have an API accesable.
+
+__HTTP (Get a file)__
+What it will do is take a __URL__ and downloading the file from there.
+
+![HTTP](pic/l3introtoapihttp.gif)
+
+__* Note__ there are some cases the link is to a drive (it will download the page not the file (ex. google drive)). in this case there is a "google" moudle for downloading a file.
+
+![HTTP](pic/l3introtoapigoogle.gif)
+
+__HTTP (Make a request)__
+
+This moudle is similar to the API modules created by Make.
+
+__* Note__ this moudle don't have __Authentication__ (see next for URL that need Authentication).
+
+![Make a request](pic/l3introtoapihttpmake.gif)
+
+__If Authentication__ is needed, there are __HTTP__ supporing diferent type's of Authentication methods (Ex. by using user name and passward - using the Make a Basic Auth request module. or by API key (we got from the API provider) that will do using module - using the Make an API Key Auth request module).
+
+![Authentication](pic/l3introtoapiautentication.gif)
+
+__HTTP (Make an API KEy Auth request)__
+
+Make API request with Key Authentication.
+
+![Make an API KEy Auth request](pic/l3introtoapiapireq.gif)
+
+__* Note__ once you created an API key in the moudle. the key's will be saved "keys" page (on the web)
+
+![Keys Page](pic/l3introtoapikeypage.gif)
 
 <div align="center">
   
