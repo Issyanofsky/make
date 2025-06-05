@@ -15,7 +15,40 @@ __Things to remember:__
 
 
 
-![Confidential Data](pic/l3planningandbestconfident.gif)
+![Managing connections](pic/l3managingconnections.gif)
+
+__* Note__  Created connections are always bound to the team in which they were created. (Organizations on Free, Core and Pro plans have just 1 team.)
+
+## Connection page
+
+__Connection right__ you can see the connection permissins.
+
+![Connection right](pic/l3managingconnectionspermmisions.gif)
+
+__Check the connection__ you can check the connection (if you think you got an error) by pressing the "Varify" button.
+
+![Verify Connection](pic/l3managingconnectionsverify.gif)
+
+__Reauthorize__ if the connection is not working you can press "Reauthorize" and set the connection again (getting connection process).
+
+![Reauthorize](pic/l3managingconnectionsreauthorize.gif)
+
+__* Note__ Not every connection has a Reauthorize option. usuaky is because it autorize in a different way, like API or user name and password.  
+
+__Edit__ csome connection may have "Edit" button. it allw to change to other key types.
+
+![Edit](pic/l3managingconnectionsedit.gif)
+
+__Delete Connection__ if your trying to clean thing up or we stop using a service or just manage the connection we can delete them on the "Delete" button.
+
+![Delete](pic/l3managingconnectionsdelete.gif)
+
+
+__* IMPORTANT__ 
+1. if your connection is lost and you need to create it again. you'l have to modify each scenario that used that connection.
+2. because connection are both sides (Make and the provider (eg.gmail)). it can happen that the connection is broken from the provider side and not from the connection on __Make__.
+
+
 
 <div align="center">
 
