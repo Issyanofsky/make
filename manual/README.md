@@ -35,6 +35,7 @@
       * [Planning and best practices](l3planningandbestpractices.md)
       * [Managing connections](l3managingconnections.md)
       * [Intro to API and HTTP app](l3intotoapiandhttp.md)
+      * [Getting Help](l3gettinghelp.md)
         
 
 
