@@ -34,19 +34,19 @@ for retriving Labels for the AI to classify the Emails.
 
 ![ClickUp (list All Tasks)](pic/l3realaiusecaseclickup.gif)
 
-### module 3
+### module 3 - Array Aggragator
 
 An Array aggregation module for combining the task (rioretize Labels) into a boundle (it create two array's - Task name (Label) and the Gmail Label ID).
 
 ![Array aggregation](pic/l3realaiusecasearray.gif)
 
-### module 4
+### module 4 - Array Aggragator
 
 Another array that combine the two arrays created in the privious module into one (Task name (Label) and the Gmail Label ID).
 
 ![Array aggregation](pic/l3realaiusecasearray1.gif)
 
-### module 5 OpenAI (Create a Completion (Prompt))
+### module - 5 OpenAI (Create a Completion (Prompt))
 
 We add an OpenAI (Create a Completion (Prompt) as a second module in the scenario where we set the module for specific roles we need (priorities the email and writing a draft response.
 
@@ -62,11 +62,11 @@ under the __Advance__ setting we change the respose format to __JSON Object__ un
 
 __* Note__ there are Advance setting. is good to look over to see if there is something usefull.
 
-### module 6 Gmail (Modify Email Lables)
+### module 6 - Gmail (Modify Email Lables)
 
 ![Gmail (Modify Email Lables)](pic/l3realaiusecasemodifylables.gif)
 
-### module 7 Gmail (Create a Draft)
+### module 7 - Gmail (Create a Draft)
 
 Creating the __Draft__
 
@@ -78,7 +78,7 @@ it will __NEVER__ run (the condition is set to if 1 equal to 2 (which is allways
 
 ![NEVER filter](pic/l3realaiusecaseneverfilter.gif)
 
-### module 8 Tool (Set multiple variables)
+### module 8 - Tool (Set multiple variables)
 
 This is a varification tool. its not must be in the scenario.
 
