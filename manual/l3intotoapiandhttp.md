@@ -128,5 +128,5 @@ __* Note__ once you created an API key in the moudle. the key's will be saved "k
 
 <div align="center">
   
-# [<-- BACK](l3managingconnections.md) --- [NEXT -->](.md)
+# [<-- BACK](l3managingconnections.md) --- [NEXT -->](l3gettinghelp.md)
 </div>
