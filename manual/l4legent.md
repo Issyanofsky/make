@@ -5,21 +5,29 @@
 # Advanced Training
 </div>
 
+__topics:__
 
-# Legend:
+1. Time and timezones in Make
+2. Complex IF formulas
+3. Advanced error handling
+4. Webhook for advanced use cases
+5. Repeater to tackle pagination challenges
+6. Data Structures
+7. Data Stores
+8. Arrays + Array functions for advanced use cases
+9. Advanced scenario design patterns
+10. Scenario Inputs
+11. Text parser
+12. Limits in Make
+13. Integromat DevTool
+14. Common mistakes to avoid
 
 
-   1. [Intro](basic.md)
-   2. [Basic's (Level 2](basics.md)
-      * [Definitions and Terminology](definitions_and_terminology.md)
-      * [Data mapping](data_mapping.md)
-      * Inline Functions
-         * [Math and String functions](math_and_string_functions.md)
-         * [Date and General Inline Functions](date_and_general_inline_functions.md)
-         * [Routers and Filters](routers_and_filters.md)
-         * [Troubleshooting](troubleshooting.md)
-         * [Plans and operations](plans_and_operations.md)
-         * [Aggregators](aggregators.md)
-         * [AI Assistant](aiassistant.md)
-           
+__Legend:__
+
+  * __Arrays__
+    * [Array Basic](l3arraybasics.md)
+    * [Array Functions](l3arrayfunctions.md)
+    * [Get+Map Functions to Perform Data Lookups](l3arraygetmap.md)
+
   
