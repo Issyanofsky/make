@@ -96,7 +96,7 @@ Give us many triggers and actions to interact with our phone
 
 ex. :
 
-  * Watch entrance to/exit from a geofence are (do an action if you enter or leave a geografic area).
+  * Watch entrance to/exit from a geofence area (do an action if you enter or leave a geografic area).
   * Watch button - if we trigger a button on the phone it triggers a scenario.
   * crate a calander event on the calander of the phone.
   * and much more........
