@@ -93,7 +93,7 @@ Example for __API Call__ setting.
 
 ### If the API is not already in Make (there is no mudles for that API)
 
-We use the __HTTP__ moudle that allows us to make some api request to any app in the internet that have an API accesable.
+We use the __HTTP__ moudle that allows us to make some API request to any app in the internet that have an API accesable.
 
 __HTTP (Get a file)__
 What it will do is take a __URL__ and downloading the file from there.
