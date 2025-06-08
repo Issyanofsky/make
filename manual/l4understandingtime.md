@@ -2,7 +2,7 @@
 
 ![Make](pic/make_logo.gif)
 
-# Advanced Training
+# Understanding Time and Timezones in Make
 </div>
 
 __topics:__
