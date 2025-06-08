@@ -85,7 +85,7 @@ Allow us to connect to any webhook anywhere in the web.
 
 The __Webhook__ allow to connect and listen to other webhooks (that dont have __Make__ build-in app) for new incoming connection (message), it can be done;
 
-  * __uniqe Address__ the Webhooks provide a uniqe address to inform the out side webhooks to send a email if any change happen.
+  * __uniqe Address__ the Webhooks provide a uniqe address to inform the out side webhooks if any change happen.
   * __email__ the Webhooks provide a uniqe email addres to inform the out side webhooks to send a email if any change happen.
 
 ## Android & Apple apps
