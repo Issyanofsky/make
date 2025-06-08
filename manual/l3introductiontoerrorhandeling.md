@@ -62,13 +62,13 @@ it ignore the moudle and continue with the scenarion. you can also enter informa
     Resume can be used in two ways:
      * as a stand alone
 
-       ![Resume](pic/l3introductiontoerrorhandelingresume.gif)
+![Resume](pic/l3introductiontoerrorhandelingresume.gif)
        
      * or, at the end of an __Error handler__ route (it will return to the main moudle and continue the scenario (its the only handler that can do that))
 
      (in this example the senarion on a error on clickup (moudle 3) will go throw the route of the error handler where it will list the tasks , using filter it will pass only the right task to another click-up module where it pulls the info ths the couse of the error. the Resume will return the corect valuse (by setting it on the resume) and go back to continue the scenario as a success.
      
-      ![Resume](pic/l3introductiontoerrorhandelingresume1.gif)
+![Resume](pic/l3introductiontoerrorhandelingresume1.gif)
     
   * __Ignore__
 
