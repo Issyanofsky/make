@@ -116,7 +116,7 @@ __If Authentication__ is needed, there are __HTTP__ supporing diferent type's of
 
 ![Authentication](pic/l3introtoapiautentication.gif)
 
-__HTTP (Make an API KEy Auth request)__
+__HTTP (Make an API Key Auth request)__
 
 Make API request with Key Authentication.
 
