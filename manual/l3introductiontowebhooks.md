@@ -57,7 +57,7 @@ __LOGS__ - Inside a webhook (details) you ccan find the logs (3 days) of the inf
 
 ![Logs](pic/l3introductiontowebhookslogs.gif)
 
-__Queue__ - Inside a webhook (details) you ccan find the "QUEUE". this is the un-process webhooks (in case the webhook is not running the information comming will be queued)
+__Queue__ - Inside a webhook (details) you can find the "QUEUE". this is the un-process webhooks (in case the webhook is not running the information comming will be queued)
 
 ![QUEUE](pic/l3introductiontowebhooksqueue.gif)
 
