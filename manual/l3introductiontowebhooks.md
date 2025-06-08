@@ -32,7 +32,7 @@ __Registered Webhooks__ are the webhooks modules that __Make__ created.
 
 __Create manualy Webhook__ -  in case there isnt a moudle created or you need some extra options that are not in the Make module. 
 
-The connection to the external webhook can be done (you generate the address or email on the cumsom webhook):
+The connection to the external webhook can be done in two ways (you generate the address or email on the cumsom webhook module):
   * an Address to sent notifications
   * notifications sent by Email notification 
 
