@@ -49,7 +49,7 @@ We go to the API web and see if what we need exsist . and see if there is anothe
 
 Depends on the API. some queryes parameters would be sent after the URL (after "?") __Or__  query need to be filed in the ""Query String" field in the setting of the module.
 
-On the module you can set the quert Parameters in 3 ways (depends on the need and the API requermrnts);
+On the module you can set the query Parameters in 3 ways (depends on the need and the API requermrnts);
 1. __Query string__ -  enter a key and a value ( we got from the API web)
 
 ![Query String](pic/l3introtoapistring.gif)
