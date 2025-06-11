@@ -26,5 +26,6 @@ __topics:__
 __Legend:__
 
   * [Understanding Time and Timezones in Make](l4understandingtime.md)
+  * [Complex IF Formulas](l4complexifformulas.md)
 
   
