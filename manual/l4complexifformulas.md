@@ -66,6 +66,8 @@ what we will get on the end (Text Aggragator) is a 3 boundle output where:
 ![Output](pic/l4complexiffinalout.gif)
 
 
+__(bundle 1 detailed):__
+
 ![Output](pic/l4complexiffinalout1.gif)
 
 <div align="center">
