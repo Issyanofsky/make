@@ -43,9 +43,9 @@ Setting the User TimeZone is done:
 
 In most scenarios. the __TimeZone__ is set by the __User__ TimeZone (it convert the time if needed to set the right time between geographic locations (ex. if you recive a timezone from USA in a script the user is in Europe. the time that will be converted to the EURO time)). there are some cases wher it set by the organization Time Zone.
 
-__FormatDate(...) Function__
+__Format Date(...) Functions__
 
-The time that will be used by this function will be determinated according to the __Organization TimeZone__ setting (it will adjust by the Time it gets from previous modules).
+The time that will be used by functions will be determinated according to the __Organization TimeZone__ setting (it will adjust by the Time it gets from previous modules).
 
 ![FormatDate(...) Function](pic/l4understandingtimezoneformat.gif)
 
