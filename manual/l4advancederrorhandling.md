@@ -5,12 +5,6 @@
 # Complex IF Formulas
 </div>
 
-
-__Things to remember:__
-
-deo
-Enable fullscreen
-
 ## how to handle 429 errors (aka "Too many requests") which are common in many APIs/apps.
 
 Sample data containing country areas is here:
