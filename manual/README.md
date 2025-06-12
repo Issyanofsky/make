@@ -41,4 +41,5 @@
    4. [Advance Training (Level 4)](l4legent.md)
       * [TimeZOne](l4understandingtime.md)
       * [Complex IF Formulas](l4complexifformulas.md)
+      * [Advanced Error Handling](l4advancederrorhandling.md)
 
