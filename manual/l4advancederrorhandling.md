@@ -51,7 +51,7 @@ Spoiler alert: you "may" need this in the near future :)
 we going to create a simple scenario witch will create a erro haning scenario. we are going to use the __Resume__ module to handle the error. by adding a __Sleep__ moudle (it will wait few seconds to pass after the 50 seconds limit). Then we will quiery again (Using HTTP module (same as the original (we copy it)) to retrive the data and the __Resume__ will return the values extracted and continue the main scenario).
 
 
-![Example](l4errorhandlingall.gif)
+![Example](pic/l4errorhandlingall.gif)
 
 __module 1 - Http (Make a request)__
 
@@ -83,7 +83,7 @@ In Most cases, it suggested to use the __Break__ erro handler. It tryes multiple
 
 (if you need to turn on the incompete executions in the scemario. its done under "scenario settings" and check "yes" on teh "Allow storing of incompete Executions")
 
-![Break Error handler](l4errorhandlingincomplete.gif)
+![Break Error handler](pic/l4errorhandlingincomplete.gif)
 
 ### using Resume
 
@@ -91,10 +91,10 @@ __Resume__ will continue with whatever we put in between and then continue as if
 
 we add an error handling moudle to the main HTTP moudle (so will have the error handle route). then in between we added a sleep moudle (for waiting 10 seconds). and a copy of the main HTTP mmoudle for retriving the data. And finely the resume that will continue with the main scenario.
 
-![Break Error handler](l4errorhandlingadd.gif)
+![Break Error handler](pic/l4errorhandlingadd.gif)
 
 
-![Break Error handler](l4errorhandlingresume.gif)
+![Break Error handler](pic/l4errorhandlingresume.gif)
 
 __Add in between - creating the fix error scenario__
 
@@ -102,34 +102,34 @@ __Sleep Moudle__
 
 This will set to wait 10 seconds for that the error limit time will pass.
 
-![Sleep](l4errorhandlingsleep.gif)
+![Sleep](pic/l4errorhandlingsleep.gif)
 
 Simple __Copy__ and __Paste__ the same module of the HTTP to GET the data (that wasnt pull on the first module that activated the error handle route)
 
-![HTTP](l4errorhandlinghttp1.gif)
+![HTTP](pic/l4errorhandlinghttp1.gif)
 
 Setting up the __Resume__ moudle to return the varibales (values) that wherent pulled because of the error.
 
-![HTTP](l4errorhandlingresume1.gif)
+![HTTP](pic/l4errorhandlingresume1.gif)
 
 Now...it will go through the first module (HTTP). If it fails (it will follow the error handler route), it will wait 10 seconds (Sleep module), then retry the exact same module again (HTTP module) and then pass the output data of our retried module back into our original route. and continue the scenario.
 
 for the example we added a __Iterator__ to deal with the data.
 
-![Iterator](l4errorhandlingiterator.gif)
+![Iterator](pic/l4errorhandlingiterator.gif)
 
 
 __* Note__
 
 you can go even further down and add more error handler paths to it (there is no limit).
 
-![Error Handler](l4errorhandlingdown.gif)
+![Error Handler](pic/l4errorhandlingdown.gif)
 
 ## Using Ignore
 
 if you use __Ignore__ handler and it fails, it will simple stop at this position (HTTP module) and not continue to the rest of the scenario. in this case it wont fit (the scenario wont be full executed).
 
-![Ignore Handler](l4errorhandlingignore.gif)
+![Ignore Handler](pic/l4errorhandlingignore.gif)
 
 ## Common HTTP status Code
 
