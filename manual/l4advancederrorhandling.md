@@ -73,7 +73,7 @@ __There are multiple ways to use error handling:__
 
 Rollback, Breack, Resume, Commit and Ignore. 
 
-  ![HTTP Error](pic/l4errorhandlinghttperror1.gif)
+  ![HTTP Error](pic/l4errorhandlingtypes.gif)
 
 ### using Break
 
