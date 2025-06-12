@@ -27,5 +27,6 @@ __Legend:__
 
   * [Understanding Time and Timezones in Make](l4understandingtime.md)
   * [Complex IF Formulas](l4complexifformulas.md)
+  * [Advanced Error Handling](l4advancederrorhandling.md)
 
   
