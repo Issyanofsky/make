@@ -2,7 +2,7 @@
 
 ![Make](pic/make_logo.gif)
 
-# Advanced Erro Handling
+# Advanced Error Handling
 </div>
 
    
