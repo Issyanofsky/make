@@ -41,6 +41,29 @@ __Things to remember:__
 => All you need to do at the end is to visit the webhook URL in your browser and the browser will turn your compiled HTML code into a webpage.
 
 
+### Simple page with Webhooks response
+
+![Simple page with Webhooks response](pic/l4webhookshtmlpage.gif)
+
+
+![Custom Webhook](pic/l4webhookshtmlwebhook.gif)
+
+Recive the webhook just as normal, getting the data.
+
+![Http](pic/l4webhookshtmlhttp.gif)
+
+Then we iterating the date through the iterartor. creates a dynamic table of the data.
+
+![Iterartor](pic/l4webhookshtmliterator.gif)
+
+Set the Text in in the form needed (HTML) by using __Text aggregator__.
+
+![Text aggregator](pic/l4webhookshtmltext.gif)
+
+Webhook responce. final step of the scenario. you can put some set the page (tags, table, header etc').
+
+![Webhook responce](pic/l4webhookshtmlresponce.gif)
+
 <div align="center">
   
 # [<-- BACK](l4advancederrorhandling.md) --- [NEXT -->](l4.md)
