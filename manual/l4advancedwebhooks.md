@@ -9,9 +9,6 @@
    
 __Things to remember:__
 
-eo
-Enable fullscreen
-
 This will introduce some of the lesser-known tips and tricks which you can use when working with webhooks in Make.
 
 Sample data used:
