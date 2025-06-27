@@ -40,10 +40,73 @@ __Things to remember:__
 
 => All you need to do at the end is to visit the webhook URL in your browser and the browser will turn your compiled HTML code into a webpage.
 
+__NOTE__
 
-### Simple page with Webhooks response
+1. A scenario turned off is not a problem, the incoming payload will be saved into the queue. but if the __Webhook__ is __turn OFF__ then the payload will be rejected and will not be queued (youll get Error 400 - Bad Request)
 
-![Simple page with Webhooks response](pic/l4webhookshtmlpage.gif)
+![Error 400 - Bad Request](pic/l4webhooksbad.gif)
+
+Make sure the webhook is turn on so the payload wont be lost and rejected.
+
+![turn on](pic/l4webhookson.gif)
+
+2. pass the data in a Webhook as __JSON__ (get the data in row JSON).
+
+![pass the data in a Webhook](pic/l4webhooksnote2.gif)
+
+
+## Post dada to Webhook from another mix area (example)
+
+### 1. Forwarding to a webhook
+
+![Forwarding to a webhook](pic/l4webhooksex01.gif)
+
+Retrive data from web page using HTTP Make request module
+
+![Forwarding to a webhook](pic/l4webhooksex01.gif)
+
+Post the Request to the Webhook URL.
+
+![Post the Request to a webhook](pic/l4webhooksex1post.gif)
+
+### 2. Forwarding Query string to another scenario
+
+will need to parse the data first  and pass it throw.
+
+![Forwarding Query string to another scenario](pic/l4webhooksex2.gif)
+
+* first module is like setting are the same as the first example above.
+
+Setting the data into a JSON
+
+![Forwarding Query string to another scenario](pic/l4webhooksex21.gif)
+
+Paste it as a __Query String__
+
+### 3. Forwarding Data (files) using make request
+
+if we want to send files o somebody else. we can set under body type on the HTTP (make request module) to __"Multipart/form-data"__
+
+
+![Paste it as a Query String](pic/l4webhooksex3.gif)
+
+### 4. Using multiple Triggers in one scenario
+
+using multiple triggers is not posible. a way to workaround. create mutliple scenario for each trigger. and use an __HTTP__ mudule to pull the data to the main scenario (we do it for each trigger we want).
+
+on the example shoed here we added a __"trigger"__ value so that the main scenario could identify the source that send the trigger.
+
+![Using multiple Triggers in one scenario](pic/l4webhooksex4.gif)
+
+On the main scenario we can defind the source by the trigger and set it to the scenrio we wish.
+
+![Using multiple Triggers in one scenario](pic/l4webhooksex41.gif)
+
+## Simple page with Webhooks response
+
+![Simple page with Webhooks response](pic/l4webhooksex1.gif)
+
+
 
 
 ![Custom Webhook](pic/l4webhookshtmlwebhook.gif)
