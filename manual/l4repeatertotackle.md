@@ -44,8 +44,77 @@ __Things to remember:__
    2. Stay tuned for 2 more tricks to solve this problem in an upcoming lessons around arrays :)
 
 
+### scenario - get all pages to a single Array
 
-![Webhook responce](pic/l4webhookshtmlresponce.gif)
+![Scenario)](pic/l4repeatertotacklescenario.gif)
+
+__HTTP (make request) moudle__
+
+firts module is the HTTP (make request) where we retreving the data.
+
+you can see there are more pages then it shows on the results (there are 5 pages and we got only 1).
+
+![HTTP (make request)](pic/l4repeatertotacklehttp.gif)
+
+![HTTP (make request) - result](pic/l4repeatertotacklehttpresult.gif)
+
+
+__Note:__ 
+
+there are some cases you can get to the pages by using query string (adding to the http request line).
+
+
+![Repeater Page](pic/l4repeatertotacklerepetaerpage.gif)
+
+the result will be:
+
+![Repeater Page 3](pic/l4repeatertotacklerepetaerpage3.gif)
+
+__Repeater module__
+
+in order to move between the pages we add a repeater. we set it to repeat for the total pages we recived.
+
+
+![Repeater module](pic/l4repeatertotacklerepetaer.gif)
+
+__* Array aggragator__
+
+We can use an Array aggrarator to combine the pages together to one bundle and the __Repetaer__ as a source. the only problem is that __Make__ does'nt know the data structure, and therefore it does not contain the actual variables that you want to combine.
+
+![ Array aggragator](pic/l4repeatertotacklehttparrayagg.gif)
+
+
+A __Workaround__ is by using __Text Aggrigator__ and building a __JSON__ structure manualy.
+
+__Iterator__
+
+iterate the data. page by page. to extract the data in each page and pas it to the Text aggrigator
+
+![Iterator](pic/l4repeatertotackleiterator.gif)
+
+__Text aggregator__
+
+combine all the data in a __JSON__ structure.
+ 
+ __*Note__ we add a coma "," seperator because the JSON files has many rows and we divid them by that (coma ",").
+ 
+![Text aggregator](pic/l4repeatertotackletextagg.gif)
+
+
+__parse the output__
+
+using Parse Jason module to parse theJSON file we just created.
+
+__* Note__ we add the __square brackets__ ("[]") in order to pass it as an array.
+
+![Parse Json](pic/l4repeatertotacklejson.gif)
+
+__Array aggregator__
+
+And lastly we parse the JSON into a array aggragetor in order to combine all into one array.
+
+![Array aggregator](pic/l4repeatertotackleharrayagg.gif)
+
 
 <div align="center">
   
