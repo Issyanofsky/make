@@ -6,9 +6,6 @@
 
 </div>
 
-eo
-Enable fullscreen
-
 We'll explain why you should care about Data Structures.
 
 Sample country areas data is here: 
