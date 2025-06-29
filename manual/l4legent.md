@@ -29,5 +29,6 @@ __Legend:__
   * [Complex IF Formulas](l4complexifformulas.md)
   * [Advanced Error Handling](l4advancederrorhandling.md)
   * [Webhooks for Advanced](l4advancedwebhooks.md)
+  * [Repeater to Tackle Pagination Challenges](l4repeatertotackle.md)
 
   
