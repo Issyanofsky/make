@@ -30,5 +30,6 @@ __Legend:__
   * [Advanced Error Handling](l4advancederrorhandling.md)
   * [Webhooks for Advanced](l4advancedwebhooks.md)
   * [Repeater to Tackle Pagination Challenges](l4repeatertotackle.md)
+  * [Data Structures](l4datastuctures.md)
 
   
