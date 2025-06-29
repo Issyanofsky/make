@@ -31,5 +31,6 @@ __Legend:__
   * [Webhooks for Advanced](l4advancedwebhooks.md)
   * [Repeater to Tackle Pagination Challenges](l4repeatertotackle.md)
   * [Data Structures](l4datastuctures.md)
+  * [Data Stores](l4datastore.md)
 
   
