@@ -44,7 +44,7 @@ __Things to remember:__
    2. Stay tuned for 2 more tricks to solve this problem in an upcoming lessons around arrays :)
 
 
-### scenario - get all pages to a single Array
+## scenario - get all pages to a single Array
 
 ![Scenario)](pic/l4repeatertotacklescenario.gif)
 
@@ -115,6 +115,55 @@ And lastly we parse the JSON into a array aggragetor in order to combine all int
 
 ![Array aggregator](pic/l4repeatertotackleharrayagg.gif)
 
+## Note
+
+
+### passing with next page
+
+in some cases where we cant implement the page (like in the former example) we mite use some advanced logic to solve the issue (run throw pages as in the example).
+
+here is an example for workaround pages that need the next page command to move between the pages (not by number in the query string).
+
+we gona use two variable tools to implify the correct query string  (placing one on each side of the "pulling" data module (HTTP make request).
+
+__after__ Set Variable module (after the HTTP module).
+
+here we set a variablefor the query string that will change accordenly to the page needed (note the "+1" that incriment the page number).
+
+![After](pic/l4repeatertotackleafter.gif)
+
+__before__ Get variable module (before the HTTP module).
+
+this one set the query string (if it empty nothing added). we add the "page_next" variable we creating in the tool after the HTTP make request (there for we create it first (the after 
+
+![Before](pic/l4repeatertotackleafter.gif)
+
+__set the HTTP__ 
+
+adding to the HTTP request the varible for the query string.
+
+![HTTP request](pic/l4repeatertotacklehttpa.gif)
+
+__*__ the rest of the scenario remain the same
+
+![Total scenario](pic/l4repeatertotackletotal.gif)
+
+
+### passing without knowing the number of pages
+
+there are cases we dont recive the date for the pages. so in order to go throw we :
+ 1. first we set the repeater to run multipletimes (much more then the pages we expect to get - like 100 for example). this is to see the responce we get on an empty page.
+
+![Repeater](pic/l4repeatertotackleex30.gif)
+
+2. we add an __if__ statment to the tool (Set variable module) that add to the "page_next" variable value acording (ifthe page exsist it will has to the query string else it will get "Stop" value).
+
+
+![if statement](pic/l4repeatertotackleex31.gif)
+
+ 3. we set a filter (between the Get variable and the HTTPS module) that allow to pass only if the value of the "page_next" is not "Stop" ( allow to pass only pages that with data).
+
+![Filter](pic/l4repeatertotackleex32.gif)
 
 <div align="center">
   
