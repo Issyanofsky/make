@@ -136,7 +136,7 @@ __before__ Get variable module (before the HTTP module).
 
 this one set the query string (if it empty nothing added). we add the "page_next" variable we creating in the tool after the HTTP make request (there for we create it first (the after 
 
-![Before](pic/l4repeatertotackleafter.gif)
+![Before](pic/l4repeatertotacklebefore.gif)
 
 __set the HTTP__ 
 
