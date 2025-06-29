@@ -2,7 +2,7 @@
 
 
 
-# Data Stuctures
+# Data Structures
 
 </div>
 
