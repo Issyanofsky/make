@@ -34,6 +34,7 @@ __Legend:__
   * [Data Stores](l4datastore.md)
   * __Array for Advanced__
     * [How to get Missing items to show in Array Aggragator](l4arrayforadvanced.md)
+    * [Advanced Operations with Arrays](l4arrayoperations.md)
       
 
   
