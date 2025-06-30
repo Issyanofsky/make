@@ -43,6 +43,32 @@ Every __Data Store__ need to have a Data structure. you define it by difining th
 
 
 ## Automating Data Store
+
+updata a Data Stroe automaticaly
+
+__Http (make request) module__
+
+This module will retrive the data from the link.
+
+   ![Http (make request)](pic/l4datastorehttp.gif)
+
+__Iterator module__
+
+We iterating the data in order to get the individual countries out by iterating the data.
+
+   ![Iterator](pic/l4datastoreiterate.gif)
+
+__Data Store (Add/replace a record) module__
+
+The Data store give us a field base on the data structure we've defined in the Data Store as well as key field whichis ou uniqe key (Make will generate a key if you dont add one. we suggest to use a define uniqe key (using one of the field. ex. country name) this way we can avoid duplicat in the Data Store fields).
+
+
+
+  ![Data Store ](pic/l4datastoredatastore.gif)
+
+
+  
+
 <div align="center">
 
 
