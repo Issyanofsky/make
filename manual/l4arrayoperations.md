@@ -4,7 +4,7 @@
 
 # Advanced Operations with Arrays
 
-
+</div>
 
 It's inevitable that you will need to perform advanced transformations of arrays during your projects. In this chapter, we are going to show a few examples of such array challenges.
 
