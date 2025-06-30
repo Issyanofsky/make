@@ -2,7 +2,7 @@
 
 
 
-# Array for Advanced
+# How to get missing items to show in Array Aggragator
 </div>
 
 Have you ever been in a situation where the Array Aggregator would not show all the possible items for aggregation? Let us show you 3 tricks to solve this problem in this short but powerful lesson.
