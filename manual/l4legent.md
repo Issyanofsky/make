@@ -33,6 +33,7 @@ __Legend:__
   * [Data Structures](l4datastuctures.md)
   * [Data Stores](l4datastore.md)
   * __Array for Advanced__
-         * [How to get Missing items to show in Array Aggragator](l4arrayforadvanced.md)
+    * [How to get Missing items to show in Array Aggragator](l4arrayforadvanced.md)
+      
 
   
