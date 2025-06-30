@@ -96,5 +96,5 @@ Then we use the parse JSON modle to pass the data to an Array aggregator in orde
 <div align="center">
 
 
-# [<-- BACK](l4datastore.md) --- [NEXT -->](l4.md)
+# [<-- BACK](l4datastore.md) --- [NEXT -->](l4arrayoperations.md)
 </div>
