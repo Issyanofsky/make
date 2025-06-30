@@ -32,5 +32,6 @@ __Legend:__
   * [Repeater to Tackle Pagination Challenges](l4repeatertotackle.md)
   * [Data Structures](l4datastuctures.md)
   * [Data Stores](l4datastore.md)
+  * [Array for Advanced](l4arrayforadvanced.md)
 
   
