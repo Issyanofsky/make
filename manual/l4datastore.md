@@ -30,10 +30,19 @@ __Things to remember:__
 8. You can have up to 1000 Data Stores in your Make organization if you are consuming a LOT of operations but keep in mind there is a __minimum size of 1 MB__ for each Data Store. So for example, if you purchased 200,000 monthly operations, the max number of Data Stores is 200,000/10,000*10/1= 200. (operations purchased/10,000 operations*10 MBs/minimum Data Store size).
 9. Typically, you will be automatically feeding data to Data Stores from your scenarios but you also have the option to __add manual entries__ to your Data Stores.
 
-   ![Using Data structure in CSV](pic/l4datastructurecsv.gif)
+
+## Data Store
+
+you can see the __Data Store__ on the web;
+
+   ![Data Store](pic/l4datastore.gif)
+
+Every __Data Store__ need to have a Data structure. you define it by difining the fields or automaticaly "generate" from a sample Data structure ( you can use already creted structures too)
+
+   ![Data Structure](pic/l4datastoregenerate.gif)
 
 
-   
+## Automating Data Store
 <div align="center">
 
 
