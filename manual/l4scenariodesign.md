@@ -174,6 +174,7 @@ __second scenario - the triggered by the API Call__
 we crate a scenario which will be trigger by the API call's we crated.
 
 on the scenario we have to create a scenario inputs (note the start scenario sign is now set to on demand)
+
 __*Note__ if there are no requered inputs (must field). you can run the scenario not just in on demand. it can run on schaduale and wil also be triggered by the API call.
    
 To configure the __Sceanrio Inputs__ on the bottom and set the input variables we going to recive from the API.
