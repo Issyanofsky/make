@@ -41,7 +41,7 @@ __Things to remember:__
 3. It's all about iterations, aggregations, and the right formulas - everything needs to be used at the __right time and in the right places__.
 4. Knowing how to efficiently process arrays can __save__ you a lot of __operations__ and __reduce the run times__ of your scenarios.
    
-   ![Transform to JSON](pic/l4arrayforadvarray2.gif) 
+   ![Array](pic/l4arrayadvanced.gif) 
    
 <div align="center">
 
