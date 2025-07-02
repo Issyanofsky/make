@@ -190,5 +190,5 @@ on the triggered scenario we set __Get Variable module__ that will get the input
 <div align="center">
 
 
-# [<-- BACK](l4arrayoperations.md) --- [NEXT -->](l4.md)
+# [<-- BACK](l4arrayoperations.md) --- [NEXT -->](l4textparser&regex.md)
 </div>
