@@ -46,9 +46,118 @@ __Things to remember:__
 7. Make is using __ECMAScript__ flavor of regex.
 
 
-   ![Sceanrio Inputs](pic/l4scenariodesignex3get.gif)    
+__Chacking the Regexp__ 
+
+You can check the expressions in this site (Note that Make is using __ECMAScript__ flavor of regex)
+
+https://regex101.com/
+
+## Example
+
+   ![Scenario](pic/l4textparserall.gif)     
+   
+__HTTP (Make a request)__
+
+this module retrive the data
+
+   ![HTTP (Make a request)](pic/l4textparserhttp.gif)    
+
+__Tools Module (Set variables)__
+
+Set the JSON description to input the sentance in order to modify it afterwards. this way we can update the sentence here without changing the rst of the modules.
+
+   ![Tools Module (Set variables)](pic/l4textparsersetvar.gif)    
+
+After setting the routers (see diagram of scenario)
+
+we set the test:
+### Finding match in a String
+
+__1. String start with "This" or "That"__
+
+Using Match pattern module to check if the script start with "This" or "That".
+
+   ![String start with "This" or "That"](pic/l4textparsermatch1.gif)    
+
+For using the result we add a Tools (Set variable) with a filter that only let pass if the result exsist ( do the same to the next moduls in order to use the results).
+
+ ![Filter](pic/l4textparserfilter1.gif)    
+
+ ![Set Variable](pic/l4textparservar1.gif)  
+ 
+__2. String ends with "Enjoy" or "Enjoy!"__
+
+Using Match pattern module to check if the script ends with "Enjoy" or "Enjoy!".
+
+   ![String ends with "Enjoy" or "Enjoy!](pic/l4textparsermatch2.gif)  
+
+__3. Substring "for" in the middle of the sentance__
+
+Using Match pattern module to check if the word "for" exists in the middle of the sentance.
+
+   ![Substring "for" in the middle of the sentance](pic/l4textparsermatch3.gif)  
+
+### you can use router and filter in order to set condition for pattern match or not
+
+   ![condition for pattern match or not](pic/l4textparservar2.gif) 
+   
+   ![Filter if exist](pic/l4textparserfilter2.gif) 
+
+   ![Filter if NOT exist](pic/l4textparserfilter3.gif) 
+
+__4. Substring "for" in the middle of the sentance__
+
+Using Match pattern module to check if the letter "y" exist inside the text and __how many times it exsist__ (we turn the "Global match" to yes. that let it find in all the senence not only the first match)
+
+   ![Substring "for" in the middle of the sentance](pic/l4textparsermatch4.gif)  
+
+filter to see if the result is greater then "0" (there are result - "for" exsist in the String)
+
+   ![Substring "for" in the middle of the sentance](pic/l4textparsermatch4.gif)  
+   
+__To count the number of output matches__
+
+we add a Numeric aggragator to count the boudles created (how many times "y" exsist)
+
+   ![count the boudles created](pic/l4textparservar3.gif)  
+
+Filtering if there are result
+
+   ![count the boudles created](pic/l4textparservar4.gif)  
+
+### Extracting text from the String
 
 
+__1. Extract all chars Before the dot (".")__
+
+This will extract the all letters __before__ the dot (".")
+
+   ![Extract all chars before the dot (".")](pic/l4textparserextract1.gif)  
+
+
+__2. Extract all chars After the dot (".")__
+
+This will extract the all letters __After__ the dot (".")
+
+   ![Extract all chars After the dot (".")](pic/l4textparserextract2.gif)  
+
+__3. Extract all chars After the dot (".") and before the "!"__
+
+This will extract the all letters __After__ the dot (".") and befor the "!"
+
+   ![Extract all chars After the dot (".") and befor the "!"](pic/l4textparserextract3.gif)     
+
+ ### Replacing charecters
+
+We can use the Replace module to replace the matches (it will replace the all string to the new one because we had on the serch pattern the "*" (indicate all) to only replace the word "This" or "That" and leave the rest of the string we have to remove the "*" from the pattern).
+
+   ![Replacing charecters](pic/l4textparserreplace1.gif)  
+
+   ![Replacing charecters](pic/l4textparserreplace2.gif)  
+   
+   ![Replacing charecters](pic/l4textparserreplace.gif)  
+
+   
 <div align="center">
 
 
