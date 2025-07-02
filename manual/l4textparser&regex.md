@@ -39,7 +39,7 @@ __Things to remember:__
    3. Text manipulations
       
 2. __Regular expressions = regex = regexp__ all mean the same thing.
-3. While our video is showing very basic use regex cases, your regexes can get significantly more complex!
+3. While our example is showing very basic use regex cases, your regexes can get significantly more complex!
 4. Regex is not specific to Make - it's a general concept that can be found in many APIs for different purposes.
 5. We strongly recommend you take at least a basic Regex course online - it's a worthy investment.
 6. You may wonder are the differences between __Match pattern__ vs __Match pattern (Advanced) modules__ so let us address the question right away:  the advanced module also lets you __map__ your regex.
