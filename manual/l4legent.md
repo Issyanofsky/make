@@ -38,6 +38,9 @@ __Legend:__
   * [Advanced Scenario Design Patterns](l4scenariodesign.md)
   * [Text Parser & Regex](l4textparser&regex.md)
   * [Make DevTool](l4makedevtool.md)
+  * __Common Mistakes to Avoid__
+    * [Part 1](l4commonmistakes1.md)
+    * [Part 2](l4commonmistakes2.md)
       
 
   
