@@ -64,14 +64,14 @@ Once you decide to do an aggragation, it's important to understand which module 
 
 Important thing which is very frequently missing in many organizations is __Documentation__. if you are building a complex scenario which are involving multiple departments, multiple apps, multiple modules. you should be always documenting them for users of the organization. so people in the organization could understand the scenario.
 
-it can be done:
+__it can be done:__
   * on word document.
   * JIRA
   * monday
   * clickup
   * or any other tools.
 
-make sure:
+__make sure:__
   * you describe the scenarios.
   * describe the tricky part of the scenario - the most complicated parts that myte be hard to remember when you come back to the scenario after.
   * describe what the scenario is doing
