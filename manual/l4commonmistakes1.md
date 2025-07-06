@@ -89,12 +89,12 @@ A common mistake is having the correct data type set in the filters.
 
 On this example we set a scenario that extract the student by using iterator's and filter __ONLY__ a specific __Email__ (using filter) and extracting the name (Set variable module).
 
-      ![Example 5](pic/l4commonmistakeex5.gif)
+![Example 5](pic/l4commonmistakeex5.gif)
 
 A Common Mistake is chousing the wrong operation(like math opration to filter a text variable)
 
 
-      ![Example 5](pic/l4commonmistakeex51.gif)
+![Example 5](pic/l4commonmistakeex51.gif)
       
     
 <div align="center">
