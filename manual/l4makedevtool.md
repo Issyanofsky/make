@@ -4,6 +4,8 @@
 
 # Make DevTool
 
+   ![Replacing charecters](pic/l4makedevtool.gif)  
+   
 </div>
 
 
@@ -35,7 +37,9 @@ __Things to remember:__
 
 2. Use DevTool to __debug random failures__ - the Response Body section of the requests tends to provide richer information about the API responses than the standard log at the bottom of the Scenario Builder.
 3. PRO TIP: Grabbing the JSON responses from the DevTool can also be useful for __auto-generating your Data Structures__.
-   ![Replacing charecters](pic/l4textparserreplace.gif)  
+
+
+
 
    
 <div align="center">
