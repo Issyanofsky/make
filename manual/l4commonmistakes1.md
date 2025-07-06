@@ -20,9 +20,9 @@ __Things to remember:__
 4. Order of routes matters! What you see may not always be what you get - make sure to __align__ your complicated scenarios to truly understand which route gets executed and when.
 5. When setting up filters, make sure to select the __correct operators for the correct data types__.
 
-# Commoin mistakes
+# Common mistakes
 
-## 1. mapping Correct variables
+## 1. Mapping Correct variables
 
 when you map somthing. you can mismap some variables (ex from another module that has the same name).
 
