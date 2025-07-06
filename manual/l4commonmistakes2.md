@@ -18,7 +18,7 @@ __Things to remember:__
 5. It's always a good idea to __disable routes that you don't need__ to work with during the development phase.
 
 
-# Commoin mistakes
+# Common mistakes
 
 ## 1. 
 
