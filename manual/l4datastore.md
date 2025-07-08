@@ -60,7 +60,7 @@ We iterating the data in order to get the individual countries out by iterating 
 
 __Data Store (Add/replace a record) module__
 
-The Data store give us a field base on the data structure we've defined in the Data Store as well as key field whichis ou uniqe key (Make will generate a key if you dont add one. we suggest to use a define uniqe key (using one of the field. ex. country name) this way we can avoid duplicat in the Data Store fields).
+The Data store give us a field base on the data structure we've defined in the Data Store as well as key field which is a uniqe key (Make will generate a key if you dont add one. we suggest to use a define uniqe key (using one of the field. ex. country name) this way we can avoid duplicat in the Data Store fields).
 
 
 
