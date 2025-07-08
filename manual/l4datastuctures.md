@@ -42,7 +42,7 @@ __Things to remember:__
 ### Data structue (in Make)
 
 A data structure is a document that describes in details the format of the data being transferred to Make. Based on this document, the Scenario editor is able to figure out which module returns or recives which kind of data.
-The data structure documents are mos commonly used for serializing/parsing data formats such as JSON, XML, CSV and others.
+The data structure documents are most commonly used for serializing/parsing data formats such as JSON, XML, CSV and others.
 
 the benefits that data structure bring are:
 * Data structure allow you to specify the structure or format of data which is flowing through your MAke Scenario. Depending on the use case, data structure can used to correctly parse incoming data, or to correctly compile output data in your modules.
