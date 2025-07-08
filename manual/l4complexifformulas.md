@@ -6,7 +6,7 @@
 </div>
 
 
-__Things to remember:
+__Things to remember:__
 
 1. Make can support very long if(...) functions that include multiple conditions and other if(...) functions inside.
 2. You can use both __and / or__ operators to define your conditions.
