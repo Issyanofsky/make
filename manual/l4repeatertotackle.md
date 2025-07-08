@@ -41,7 +41,7 @@ __Things to remember:__
       
 5. If you need to aggregate bundles with Array Aggregator and __you don't see items available for aggregation__ within the module, you can build a JSON via Text Aggregator, then parse the text with JSON>Parse JSON module, and finally, you can use Array Aggregator to aggregate the results from the Parse JSON module.
    1. You just need to make sure you properly escape special characters such as " or" /  (example to escape ": replace(your_mapped_value_here;";\") function in case your mapped values contain them.
-   2. Stay tuned for 2 more tricks to solve this problem in an upcoming lessons around arrays :)
+   2. Stay tuned for 2 more tricks to solve this problem in an upcoming chapters around arrays :)
 
 
 ## scenario - get all pages to a single Array
