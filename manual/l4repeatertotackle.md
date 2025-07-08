@@ -156,7 +156,7 @@ there are cases we dont recive the date for the pages. so in order to go throw w
 
 ![Repeater](pic/l4repeatertotackleex30.gif)
 
-2. we add an __if__ statment to the tool (Set variable module) that add to the "page_next" variable value acording (ifthe page exsist it will has to the query string else it will get "Stop" value).
+2. we add an __if__ statment to the tool (Set variable module) that add to the "page_next" variable value acording (if the page exsist it will has to the query string else it will get "Stop" value).
 
 
 ![if statement](pic/l4repeatertotackleex31.gif)
