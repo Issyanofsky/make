@@ -89,7 +89,7 @@ In Most cases, it suggested to use the __Break__ erro handler. It tryes multiple
 
 __Resume__ will continue with whatever we put in between and then continue as if this source moudle break.
 
-we add an error handling moudle to the main HTTP moudle (so will have the error handle route). then in between we added a sleep moudle (for waiting 10 seconds). and a copy of the main HTTP mmoudle for retriving the data. And finely the resume that will continue with the main scenario.
+we add an error handling moudle to the main HTTP moudle (so will have the error handle route). then in between we added a sleep moudle (for waiting 10 seconds). and a copy of the main HTTP moudle for retriving the data. And finely the resume that will continue with the main scenario.
 
 ![Break Error handler](pic/l4errorhandlingadd.gif)
 
