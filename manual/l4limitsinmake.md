@@ -46,7 +46,10 @@ Now, let's look at other limits:
 
 __Extra resources:__
 
-[Pricing page on Make.com](https://www.make.com/en/pricing)
+1. [Pricing page on Make.com](https://www.make.com/en/pricing)
+2. [Pricing parameters and usage allowance in Help Center](https://www.make.com/en/help/general/pricing-parameters)
+3. [Limits for modules returning paginated results in Make's documentation for app building](https://docs.integromat.com/apps/app-blocks/api/pagination#limits)
+4. [Custom IML functions in Make's API documentation](Custom IML functions in Make's API documentation)
 
     ![Example 8](pic/l4commonmistakeex8.gif)
 
