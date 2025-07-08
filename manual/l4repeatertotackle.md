@@ -103,7 +103,7 @@ combine all the data in a __JSON__ structure.
 
 __parse the output__
 
-using Parse Jason module to parse theJSON file we just created.
+using Parse Jason module to parse the JSON file we just created.
 
 __* Note__ we add the __square brackets__ ("[]") in order to pass it as an array.
 
