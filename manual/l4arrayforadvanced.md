@@ -81,7 +81,7 @@ Arranging the data into one array.
    ![Array aggragate module](pic/l4arrayforadvarray1.gif) 
 
 
-## 2. Another option - Using JSON module (Transform to JSON) moudle (this one is the easy way)
+## 3. Another option - Using JSON module (Transform to JSON) moudle (this one is the easy way)
 
 we use only the first module (HTTP) like before. 
 
